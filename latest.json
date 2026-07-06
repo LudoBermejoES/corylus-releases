@@ -1,11 +1,11 @@
 {
-  "version": "1.30.2",
-  "notes": "Corylus 1.30.2",
-  "pub_date": "2026-07-06T12:09:48Z",
+  "version": "1.31.1",
+  "notes": "Corylus 1.31.1",
+  "pub_date": "2026-07-06T13:56:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3haTmZ5ZkNNcGFtVUlTMTg4UXRvS1F3L3g0UDVEQVNVdk9JUk12S3RJQ2N6aU90QUVmdmpLVnp5SmZDQSt2am5WWC9xeUNlMUc5NWI0QjVQUzQ5NFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzM5NzUzCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CmtEYTBRSytUWWNOQXRFTGlKUWNqME9lSUliRlh6eUFFNi9kQzlmMXh6a2IzcWc5VHZXeXpSczJjU1ExYkUxcDlyMjNhMXNSUjVwSlZQK050a1dTUUJnPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.30.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzkvMmtiU25iNmJyYUdxRFNMVW0vY0w0cHowRVlJNTJyVUM4L0RSR1l3RFZqNHJodVlMdmNpb2xyVFEvVUpESzJJRnVTNi9keXd1QnNQN2c3aWZWUGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzQ2MTY1CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6Cmg2aXREMmpWZEZGUHo1UlpZNkRray9udURVb2lTbWNZN2hEcUIzR3ZDS0ZEbTZyeHNqVENmY0lDTndKTzlGUWJYa0lvWDVKaitJWTNPYjF1aHlaaEN3PT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.31.1_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3pSTDg1M3dOWGJlRWppeWN4K0RJNVJaUmthMFpINGNkQlFGSkVZMFU2L0RvQklsa25oUlV4VnYwbDBiVTNLZ0FqSUV0NTRQU1dzL215TXdxSTNrUlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzQwMzIwCWZpbGU6Q29yeWx1c18xLjMwLjJfeDY0LXNldHVwLmV4ZQowS0t3R0ZYTjQzRDBlVlgwR2FhdFloa2lmZkpxMnNZZk5uNCtPWmlNRk83Nm1EVkNjRUUrdDh5R3B6Q3lYRnJINHlXK2V3VEg4MklDMzdiVXlrdmZBUT09Cg==",
