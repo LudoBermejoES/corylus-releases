@@ -1,0 +1,11 @@
+{
+  "version": "1.30.0",
+  "notes": "Corylus 1.30.0 - Windows auto-update build.",
+  "pub_date": "2026-07-06T11:22:29Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mbzh0c0lGL3JXdC9NRTRxcXJhL25UZXpqdDlibFZCdHBDOVJLM0lRZUdMS21wR0kycFJLNVpobEI4R2tLdnZGeEt4TGpETzQ4Q3UraG1MN3hoclRUenc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzMzODg1CWZpbGU6Q29yeWx1c18xLjMwLjBfeDY0LXNldHVwLmV4ZQpvcWdMRXQrdlpvWXVtdTI3SWhPTXlCVWRRUUVrSlV6WWR5Tnc3TWdkcDN3a0RjbDEzVFZaSDZKdUlsdWVoRWVTNDJCNXhmcUR6Zy9BZGdvajJ2d1dEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.30.0_x64-setup.exe"
+    }
+  }
+}
