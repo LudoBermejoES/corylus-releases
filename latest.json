@@ -1,8 +1,12 @@
 {
-  "version": "1.30.0",
-  "notes": "Corylus 1.30.0 - Windows auto-update build.",
-  "pub_date": "2026-07-06T11:39:30Z",
+  "version": "1.30.2",
+  "notes": "Corylus 1.30.2",
+  "pub_date": "2026-07-06T12:09:48Z",
   "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3haTmZ5ZkNNcGFtVUlTMTg4UXRvS1F3L3g0UDVEQVNVdk9JUk12S3RJQ2N6aU90QUVmdmpLVnp5SmZDQSt2am5WWC9xeUNlMUc5NWI0QjVQUzQ5NFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzM5NzUzCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CmtEYTBRSytUWWNOQXRFTGlKUWNqME9lSUliRlh6eUFFNi9kQzlmMXh6a2IzcWc5VHZXeXpSczJjU1ExYkUxcDlyMjNhMXNSUjVwSlZQK050a1dTUUJnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.30.2_aarch64.app.tar.gz"
+    },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3hmUmRoSXR5Ym1PVDdGNGk3VENZUFdiZ0pPN1Rhb0wzTDJpZEdVQWJnaGpIV1drVUl5K2h3T0dVa2d2YWFPWlZIYkttNmRBUHY5ei9QdDArMlMyM3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzM3ODQyCWZpbGU6Q29yeWx1c18xLjMwLjBfeDY0LXNldHVwLmV4ZQoyYmR2M3hOWVlnZldJS05oVzlJRmM0MlVyVXNualJLdTVrb09Ed00zZ2oyZVBydWM5dmowcGJpdktVUWQyWC9sQ2EzT2tKMFFLdStmeUQ5eXpvN09CUT09Cg==",
       "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.30.0_x64-setup.exe"
