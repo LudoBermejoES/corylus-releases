@@ -1,11 +1,11 @@
 {
-  "version": "1.36.0",
-  "notes": "- You can now import Word, HTML, OpenDocument, and Rich Text files into the Story Bible — via drag-and-drop or the new \"Import document…\" button — with structure, formatting, and images preserved.\n- Fixed dropping a Word document onto the Story Bible producing unreadable raw text instead of a converted entry.",
-  "pub_date": "2026-07-07T15:42:57Z",
+  "version": "1.36.1",
+  "notes": "- Fixed the guided tour closing when you clicked outside the highlighted box — it now stays open, and only ends when you use the close or finish button.",
+  "pub_date": "2026-07-07T16:28:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzZyQ2FGNnpaYkJqTXdmbDRmT0I3RnVid0JQREhZRXFhMjZkd29vRHRwcHo5eEViWUNwS09OMGo0VlRyZmVhb2RlLzlQTnBFZ3owbVdjY1VaWTZtQndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDM4NzI4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6Cm1sNGNMZ2wwdXhWVnZVZWxKYzRDU25TcTlDd25Xd2ZzdEdyWWdqNFZVYTB6SzllOE90dEJiL2sxZjh3ZGZ0T3FqYXJzZitPODlUVi9aeG1JWDV2bEF3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.36.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3pFZy80ODR3RjdUWTdtRENxelJXUEVCSHFvZnlLMHBqbXdCbHdhYVhWTzB4YjRsVXh0TXVIRmRTVUtQTDc4VHhwbUdiS1phUEp3TWZNaUw5YnhieHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDQxNzExCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CnUwOUYxbEhwY3ZJMmpFRFFOd1pncjdJMzN1QUorNHpVQmdPUXF0bGg3VytTeEFWem9xb3RTYXQzZHJNWWQrTXFOeWpwc2ZjQkk4ZzVobGpjdWRvWkN3PT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.36.1_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzhuWG1FMW9nNUZuSFM5ZjhmS2pueFVDZkk2enVhU2wyQWNSSXE1c0JvRDBRb0F2c1dWTytUM3YyRzF5b1laTkVaQWEyQTdRclZ2K1JlYnAyWGxzQ0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDM5NTE3CWZpbGU6Q29yeWx1c18xLjM2LjBfeDY0LXNldHVwLmV4ZQo2U2ozWXRBMndxc3ljYUgxVDRxWGdKK2FwM0xySTlVcHdydjAzWW1PQzd1Z0dIWUt4dDJ3dWx2eERoa2psT0JYOGNwd1RyOTc2SGgrb3YxN0xqR3ZDdz09Cg==",
