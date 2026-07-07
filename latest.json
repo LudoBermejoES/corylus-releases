@@ -8,8 +8,8 @@
       "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.35.0_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzhETXZBT24xdEVZK1IvOVNSb0gzRGs4ajBuSDFLTnFJN3JiaXk5eksva3JwUk1KSGlxS3orcVBReklxemRlK1BXQkJDNzJkYXJkNjNwYkV1cVdWaFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDEzOTE0CWZpbGU6Q29yeWx1c18xLjM0LjBfeDY0LXNldHVwLmV4ZQowTWdoaFJkeks1UzFVSTViRXZyZXdZTTRJQnYwcit5YTdRZCt5MEt2RWdBaDk4REtvZXlHMVRQMWRBNE41UmxpaTNDUTl4SVUwbDdrM0IrVGNDWUVDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.34.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbytseG13dVNwajFJWDlIK3VJYmpZZHZNa0pCTzFmZjJSKzAyeTJjdDdKZHd0UEpaR3FSQ1hQMWxmUmp3dGh4c3JvSWJiVmkzK3pKOUtSNjRaaUhWS2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDIyNTkzCWZpbGU6Q29yeWx1c18xLjM1LjBfeDY0LXNldHVwLmV4ZQpwaG95NzRPaFpsenZ5UUxiRlFKdmxEYy9iOXJCbTZiTkE2MlJJYTlxOGYrd2ZPL2ludXU3NzY2UURXaEFtL1NTZEswYno1Sk5wamxTWDF6SHh4TTVEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.35.0_x64-setup.exe"
     }
   }
 }
