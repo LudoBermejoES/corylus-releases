@@ -1,11 +1,11 @@
 {
-  "version": "1.35.0",
-  "notes": "- The split-pane buttons now show clear icons instead of blank squares.\n- Fixed the editor's font picker showing unreadable white-on-white text in dark mode on Windows.\n- You can now choose the app's interface font and text size separately from the editor font, in Settings → Appearance.",
-  "pub_date": "2026-07-07T10:59:38Z",
+  "version": "1.36.0",
+  "notes": "- You can now import Word, HTML, OpenDocument, and Rich Text files into the Story Bible — via drag-and-drop or the new \"Import document…\" button — with structure, formatting, and images preserved.\n- Fixed dropping a Word document onto the Story Bible producing unreadable raw text instead of a converted entry.",
+  "pub_date": "2026-07-07T15:42:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3lkSHVVLzZYdHMwTFppTnNsQWdLS216STNxbG4vcHphZ3FsZUFvMm9rMXRPbWVzbnlCblA4RzBBUFhldlJUeEtvMkVSZnVNWjZWbnNwMnA4b3BMZnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDIxOTc4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CnZVV2NZSGZ4NS9Kb0R5RFQ4OFNQQmVOSDd2dkNadVZJQTV5KzBENFAybnBhRlRhZGJpZHc1MnA3WDZySHM2Q2tsM0VNQVVSb0wyd2FMeXNmaUlpc0NRPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.35.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzZyQ2FGNnpaYkJqTXdmbDRmT0I3RnVid0JQREhZRXFhMjZkd29vRHRwcHo5eEViWUNwS09OMGo0VlRyZmVhb2RlLzlQTnBFZ3owbVdjY1VaWTZtQndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDM4NzI4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6Cm1sNGNMZ2wwdXhWVnZVZWxKYzRDU25TcTlDd25Xd2ZzdEdyWWdqNFZVYTB6SzllOE90dEJiL2sxZjh3ZGZ0T3FqYXJzZitPODlUVi9aeG1JWDV2bEF3PT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.36.0_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbytseG13dVNwajFJWDlIK3VJYmpZZHZNa0pCTzFmZjJSKzAyeTJjdDdKZHd0UEpaR3FSQ1hQMWxmUmp3dGh4c3JvSWJiVmkzK3pKOUtSNjRaaUhWS2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDIyNTkzCWZpbGU6Q29yeWx1c18xLjM1LjBfeDY0LXNldHVwLmV4ZQpwaG95NzRPaFpsenZ5UUxiRlFKdmxEYy9iOXJCbTZiTkE2MlJJYTlxOGYrd2ZPL2ludXU3NzY2UURXaEFtL1NTZEswYno1Sk5wamxTWDF6SHh4TTVEUT09Cg==",
