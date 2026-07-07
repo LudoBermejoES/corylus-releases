@@ -1,11 +1,11 @@
 {
-  "version": "1.34.0",
-  "notes": "- Corylus now shows you what's new right after an update — like this one.\n- Smart typography: -- becomes an em dash, ... becomes an ellipsis, and straight quotes curl automatically (« » in Spanish documents).\n- The Inspector and Assistant panels can now be resized by dragging their edge, just like the binder sidebar.",
-  "pub_date": "2026-07-07T08:30:48Z",
+  "version": "1.35.0",
+  "notes": "- The split-pane buttons now show clear icons instead of blank squares.\n- Fixed the editor's font picker showing unreadable white-on-white text in dark mode on Windows.\n- You can now choose the app's interface font and text size separately from the editor font, in Settings → Appearance.",
+  "pub_date": "2026-07-07T10:59:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzVyT0tZd2ZCMGp1VnFHVlkzblVmN240c1U1VDd0SGh1S0h1TTV6ZDRQdkY3emJ1bkl2RTkzam5CY0xQTFZjNk1laEQrY3RxbGNJUG5yY0svdHQwTFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDEzMDQ4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CnRrS3ZXT0pNYlo0bkI0dUYyRjhiREtYL3V0ejhpSXBmVzhkbUdUUkczZ0NqV2tBU1BIN3liMUlDWHd4NXluc2NFSHh5QnV4SWprNjVHUFRGeXNXbkRnPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.34.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3lkSHVVLzZYdHMwTFppTnNsQWdLS216STNxbG4vcHphZ3FsZUFvMm9rMXRPbWVzbnlCblA4RzBBUFhldlJUeEtvMkVSZnVNWjZWbnNwMnA4b3BMZnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDIxOTc4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CnZVV2NZSGZ4NS9Kb0R5RFQ4OFNQQmVOSDd2dkNadVZJQTV5KzBENFAybnBhRlRhZGJpZHc1MnA3WDZySHM2Q2tsM0VNQVVSb0wyd2FMeXNmaUlpc0NRPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.35.0_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzhETXZBT24xdEVZK1IvOVNSb0gzRGs4ajBuSDFLTnFJN3JiaXk5eksva3JwUk1KSGlxS3orcVBReklxemRlK1BXQkJDNzJkYXJkNjNwYkV1cVdWaFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDEzOTE0CWZpbGU6Q29yeWx1c18xLjM0LjBfeDY0LXNldHVwLmV4ZQowTWdoaFJkeks1UzFVSTViRXZyZXdZTTRJQnYwcit5YTdRZCt5MEt2RWdBaDk4REtvZXlHMVRQMWRBNE41UmxpaTNDUTl4SVUwbDdrM0IrVGNDWUVDZz09Cg==",
