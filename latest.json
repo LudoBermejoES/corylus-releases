@@ -1,11 +1,11 @@
 {
-  "version": "1.36.1",
-  "notes": "- Fixed the guided tour closing when you clicked outside the highlighted box — it now stays open, and only ends when you use the close or finish button.",
-  "pub_date": "2026-07-07T16:28:57Z",
+  "version": "1.37.0",
+  "notes": "- Markdown tables now render as real grids in the editor, with header rows, column alignment, and in-cell formatting — instead of collapsing into run-on text.",
+  "pub_date": "2026-07-07T19:41:26Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3pFZy80ODR3RjdUWTdtRENxelJXUEVCSHFvZnlLMHBqbXdCbHdhYVhWTzB4YjRsVXh0TXVIRmRTVUtQTDc4VHhwbUdiS1phUEp3TWZNaUw5YnhieHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDQxNzExCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CnUwOUYxbEhwY3ZJMmpFRFFOd1pncjdJMzN1QUorNHpVQmdPUXF0bGg3VytTeEFWem9xb3RTYXQzZHJNWWQrTXFOeWpwc2ZjQkk4ZzVobGpjdWRvWkN3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.36.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3gxR29xa2ZGQXlpZUM3WUROWitBN3hZckQ2VDBkK1BwQy9lK3hGM28yYkxyVStjd3dhaG03L0NQamFnZUg2SUxCaGxpKzVkTTdFd3VkUERrclFHK3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDUzMjI5CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6ClgwUnAwemcwQ0dpYm5ZdFRWd3AwYWl3L3Q0a29nelloQjNDdGxNaEtaMjhTVGlQa2dxRXNLazl1YUJWK3NlOTU3TzRGTng4RUUxSXBDRGRRbGhJNUN3PT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.37.0_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzJ5bFpDVmtlS2RyMjBxN080SzRkaEE5bUdNK2FTVlYxeDdHaWcxektoN3Q4QUUrSUJLaGdnajVtQ051LzdVaDMxTzZ0Nkg2VURON2U2cktGeW83aGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDQyMDQzCWZpbGU6Q29yeWx1c18xLjM2LjFfeDY0LXNldHVwLmV4ZQpFNzNGakRwWTRZck4wV05JMGpEVE1TRzZuY2NnNDVXMnZwbTRjRDlnV3B2ME1qbGtvMHRxQ0tGcmROaFJtVlFnT1JXMnRzazg0WFIramY2bElGNjBCQT09Cg==",
