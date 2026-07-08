@@ -1,11 +1,11 @@
 {
-  "version": "1.37.1",
-  "notes": "- Fixed document import: documents with 11+ images no longer get corrupted image links, RTF smart quotes and dashes decode correctly, and ODT lists mixing bullets and numbers per level import correctly.",
-  "pub_date": "2026-07-08T08:29:56Z",
+  "version": "1.39.6",
+  "notes": "- Maintenance release: dependency modernization (Tauri 2.11.5, Vite 8, Vue tooling, i18n/router majors). No user-facing feature changes.",
+  "pub_date": "2026-07-08T16:45:27Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mby9jRDdPRXNNVUZYN3RFc3I5Nm9OR3R3Vm1ydjZKc2hiVGxVQUROSlFXRVFoNk8rVHJsQ2hKZDBnaWJtTDNrNnhrS2trcGFlTjFHVnFhVVZBaXloc3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDkzMDI0CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6ClcyTUNib1Mrai9laWVZbWQ0dUZFWUVXcVN3NEwvWWlzVXVPY0l5NmJPcHYzWUFKMithRzRDZ0YzK0JrU2IxZCt5OUJpcldqbW5mbGcxTUNGaUthRkRnPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.37.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzNXWEp4a3hQLytKMllXSkZsNEFKZ0xQbVZveDhiZ0JWZjBqNWRqSDVRRUpKc0MzaVl6YWo0T1dPOHRZcXV2QTVrbzNNUU1DVHgxcWFEYmFVdnJ6Z1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTI5MDQwCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CkRlZzN0eXNvdGxpa2JFaTQ3WEtvRm4wZXh6QU9EWFZWZ2Y5WExrNWZjcWdudWdSSXVGSjlhRkwzVW9oY2lrT3V4ZS82RkpUK3EvczV6d0pCcTlxREJRPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.39.6_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzIyc1VKUk5rekJ5cmVHYmNwaEJLRFNFdUhnNTU1MkpaU0t1VHpsajVRNWIydEFJT2xBWFhSa2NEVHZhUm1semNQaHVOVG1NRDhSRmNoZzFqMFJ3T0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDk0NDU4CWZpbGU6Q29yeWx1c18xLjM3LjFfeDY0LXNldHVwLmV4ZQpqbTlCdWpTVWRkUGswT2tlRllCbkdNcWNlWmpacnJLckp1RkE1OHpYUDBRdmFiY3g5ZXRFTHVkbG8rZXpvRmM2RHN5WFR0dW1wZGpXVWQyK01MTjJCdz09Cg==",
