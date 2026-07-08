@@ -1,11 +1,11 @@
 {
-  "version": "1.37.0",
-  "notes": "- Markdown tables now render as real grids in the editor, with header rows, column alignment, and in-cell formatting — instead of collapsing into run-on text.",
-  "pub_date": "2026-07-07T19:41:26Z",
+  "version": "1.37.1",
+  "notes": "- Fixed document import: documents with 11+ images no longer get corrupted image links, RTF smart quotes and dashes decode correctly, and ODT lists mixing bullets and numbers per level import correctly.",
+  "pub_date": "2026-07-08T08:29:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3gxR29xa2ZGQXlpZUM3WUROWitBN3hZckQ2VDBkK1BwQy9lK3hGM28yYkxyVStjd3dhaG03L0NQamFnZUg2SUxCaGxpKzVkTTdFd3VkUERrclFHK3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDUzMjI5CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6ClgwUnAwemcwQ0dpYm5ZdFRWd3AwYWl3L3Q0a29nelloQjNDdGxNaEtaMjhTVGlQa2dxRXNLazl1YUJWK3NlOTU3TzRGTng4RUUxSXBDRGRRbGhJNUN3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.37.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mby9jRDdPRXNNVUZYN3RFc3I5Nm9OR3R3Vm1ydjZKc2hiVGxVQUROSlFXRVFoNk8rVHJsQ2hKZDBnaWJtTDNrNnhrS2trcGFlTjFHVnFhVVZBaXloc3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDkzMDI0CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6ClcyTUNib1Mrai9laWVZbWQ0dUZFWUVXcVN3NEwvWWlzVXVPY0l5NmJPcHYzWUFKMithRzRDZ0YzK0JrU2IxZCt5OUJpcldqbW5mbGcxTUNGaUthRkRnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.37.1_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3d5QWNnb1gxWWRBWXZnRElvcmtXazRxZmJtSzI4QVB5ZFBkTTFoYjhiNG5zeW1xM21MUGF6NmFjNE44d1d3VDhuOEZxL0NJU3JkVkhiYktZY3lRcndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDU2MzQzCWZpbGU6Q29yeWx1c18xLjM3LjBfeDY0LXNldHVwLmV4ZQpVbkFjU01PRUdGaTI5d0RJSWpOejlxTWZhcU94dXNUQW1vbFhRalBRMDFnRi9WWlNYWFNqMitBck9hM0NKbjI1TXJ1RE10bWdOSWtxMFpmeXV6QUVCQT09Cg==",
