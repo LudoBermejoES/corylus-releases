@@ -1,11 +1,11 @@
 {
-  "version": "1.39.7",
-  "notes": "- Fixed hyphenation for Spanish and other non-English documents: words now break by the document's own language rules (desa-grado, not des-agrado), regardless of the interface language.",
-  "pub_date": "2026-07-08T17:26:53Z",
+  "version": "1.39.8",
+  "notes": "- Fixed permanently deleting a document or Story Bible entry from Trash not fully removing it: it could still turn up in search results or as a lingering relationship on another entry. Permanent delete now removes it everywhere.",
+  "pub_date": "2026-07-08T19:51:29Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzlzaldVRmRxOTExMUt0dW9lemFyWmxxYXJGdFNEZWZZV3F3djZxdSs3QzNPZi9FZE5Obmk3T2hkOGJPNUtuVVhFeXdsR1hBNHMya2swaVd2TGczVGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTMxNTE0CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6ClVkMjdOVjgyUFpKNXRJMDFNRk8yUHFRNnBNeUMrYkNaRWRyKzgrWUxkZWZiUSsxMW5GYStBTUZIQnZEQ0NoME1rUG5CVEIvNUF0T2dLZ3I2TEZKS0RnPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.39.7_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbytRYVg0WkZjRkxXZCtkV2FIQUZOaHZDOXlwTHVHVUlmUEVOWHVtTGhUZ2FBRWlGTjFjcFppWXlSYXRObGpPSVRYVmpSYzI2STdMV2UvU3dEeWw1akFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTQwMDAyCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6Cmw2UE1oR2RUak0rWGNaeFRVeGNueWVCclY4Y1J2RTJSSnMyYUxJdS9heWp6dG93VHRIZWExcjFoZjR0RFRKU0NobXVjeWZVR2hhVmlXWENlamJoZ0FBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.39.8_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzBJeTdUcm5tUzRqcFBBaVFpZllLK1pPSFl3N0VCdEFCSWQ1VTg4bnJNNUFseEZ6QTlGWjBsNG1kMDI2SDFFT2d4M3k2MVhCdUhtWVZ5RzI1cUdVWHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTMxNjI2CWZpbGU6Q29yeWx1c18xLjM5LjdfeDY0LXNldHVwLmV4ZQppV2JGSjdZazI0TmZVYnZJaG8rNWVNdzlHTXV2dUJTVTRNYVFPRWVqM0F5TnBoblZDUUlyd21BRkpoRnBFVysvRTRKSjQ5UUxNQkFOVHVIZVdQQnNBdz09Cg==",
