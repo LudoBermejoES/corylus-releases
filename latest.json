@@ -1,11 +1,11 @@
 {
-  "version": "1.39.6",
-  "notes": "- Maintenance release: dependency modernization (Tauri 2.11.5, Vite 8, Vue tooling, i18n/router majors). No user-facing feature changes.",
-  "pub_date": "2026-07-08T16:45:27Z",
+  "version": "1.39.7",
+  "notes": "- Fixed hyphenation for Spanish and other non-English documents: words now break by the document's own language rules (desa-grado, not des-agrado), regardless of the interface language.",
+  "pub_date": "2026-07-08T17:26:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzNXWEp4a3hQLytKMllXSkZsNEFKZ0xQbVZveDhiZ0JWZjBqNWRqSDVRRUpKc0MzaVl6YWo0T1dPOHRZcXV2QTVrbzNNUU1DVHgxcWFEYmFVdnJ6Z1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTI5MDQwCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CkRlZzN0eXNvdGxpa2JFaTQ3WEtvRm4wZXh6QU9EWFZWZ2Y5WExrNWZjcWdudWdSSXVGSjlhRkwzVW9oY2lrT3V4ZS82RkpUK3EvczV6d0pCcTlxREJRPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.39.6_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzlzaldVRmRxOTExMUt0dW9lemFyWmxxYXJGdFNEZWZZV3F3djZxdSs3QzNPZi9FZE5Obmk3T2hkOGJPNUtuVVhFeXdsR1hBNHMya2swaVd2TGczVGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTMxNTE0CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6ClVkMjdOVjgyUFpKNXRJMDFNRk8yUHFRNnBNeUMrYkNaRWRyKzgrWUxkZWZiUSsxMW5GYStBTUZIQnZEQ0NoME1rUG5CVEIvNUF0T2dLZ3I2TEZKS0RnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.39.7_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3haMUNtblBNSXFCekxuVFhHRFhMZDg5Z3pWOTEyNEgrRzRmMWpnS1pIMVEwdnpYK2Yzd2krRlFNdDVDRVVFZno1bFNjKzB1c2JxalR5bGtLcWlSN0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTI5NDU5CWZpbGU6Q29yeWx1c18xLjM5LjZfeDY0LXNldHVwLmV4ZQpYV0FWWnprd0lvbDJiQ2xhTDdmUXNreGxlYndOMmV3aGJDWlgzazNBd1ZxTENxbDVacTVzT1AvSXk5bkVsOGhObSt0OHlMMGZ4bTNHRlU3bC9JekdEUT09Cg==",
