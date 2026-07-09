@@ -1,11 +1,11 @@
 {
-  "version": "1.39.8",
-  "notes": "- Fixed permanently deleting a document or Story Bible entry from Trash not fully removing it: it could still turn up in search results or as a lingering relationship on another entry. Permanent delete now removes it everywhere.",
-  "pub_date": "2026-07-08T19:51:29Z",
+  "version": "1.39.9",
+  "notes": "- Fixed the spellcheck/synonyms menu spilling off-screen when it opened low in the window with many entries. It now repositions to stay fully visible and scrolls internally if it's taller than the window.",
+  "pub_date": "2026-07-09T06:31:31Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbytRYVg0WkZjRkxXZCtkV2FIQUZOaHZDOXlwTHVHVUlmUEVOWHVtTGhUZ2FBRWlGTjFjcFppWXlSYXRObGpPSVRYVmpSYzI2STdMV2UvU3dEeWw1akFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTQwMDAyCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6Cmw2UE1oR2RUak0rWGNaeFRVeGNueWVCclY4Y1J2RTJSSnMyYUxJdS9heWp6dG93VHRIZWExcjFoZjR0RFRKU0NobXVjeWZVR2hhVmlXWENlamJoZ0FBPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.39.8_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzlNa1lDVXpnWERMWTB5NERXdWk5SERuZEowMko1VW0yT1hpVGJ6UFlzNW1HTVdkVXQwTlhQRTlSd1ZkcjYxd3pEdDdGNExjV3ZDdlFvTHEyei9HM3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTc4NTcyCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CmVtR05vSmFnU1gwbnFORzRjaXRGZHg1ZmM4L2ZUVThROHFXV01FaVUxQ0FSVVlaYXN3WWdBUnJmWGo0VTd5WkxZdmtucDl0M21OakdjTS9YK2VNMERBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.39.9_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzBuaEk2TERRd0hiRUNJd1IzOEN3cm1uSGdYalVodm1yR3FySUcvb0tDcmNXQ09XQXE2WnBKYnFIR3dmMEJxZXNrUHZOU0Nrd3BXbWEyS0hESnArb1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTQwNjgwCWZpbGU6Q29yeWx1c18xLjM5LjhfeDY0LXNldHVwLmV4ZQoyWXVCYnVXVGNscnJRS0VWTG5Vek1oYXBmNlZFdDQyNmh1NzYyUm45aU5KK3dJa3FyNTNucndlU3Z2UitTY0M1eWQzMWF6ek01M3BsMkJEVlk5dXZBdz09Cg==",
