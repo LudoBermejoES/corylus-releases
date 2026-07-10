@@ -1,11 +1,11 @@
 {
-  "version": "1.44.1",
-  "notes": "- Fixed distraction-free mode showing text pinned to one side (empty half + leftover divider) when entered from a split view — it now always shows a single centered column, restoring your split exactly on exit.\n- Distraction-free mode can now show an image or video background behind a translucent page, with a curated collection built in or your own file/URL, adjustable live from the distraction-free toolbar.",
-  "pub_date": "2026-07-10T17:53:32Z",
+  "version": "1.44.2",
+  "notes": "- Fixed the distraction-free background file picker not showing WebM videos by default.\n- You can now replace an existing distraction-free background directly — no need to remove it first.",
+  "pub_date": "2026-07-10T20:06:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzRnQ2VTTnp6OTI3MWVXVitsQWhPVlc1bm1FZnhCL2c3V1dRbkEyNEtRUFE2Zy84VTZvY0VEaXJKdUJ2SXJIcE5KVit2RlZjOVgvKy9SWWVPN1dmRHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzA1OTg4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CldNRzhtTlZ4TjRRZGFJYUZyZktCV2JZR2YwNGpFdFZRcGN5ZEJFNW1GcXZxLzBKMFo3MWtHQlFhdGlvWmxsOFRnQ1pZNUE3NzNmMnJDQlNqdE52L0FnPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.44.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzNtdHYxY05FeW1JTm9QTXFMTUV6MXE0am5nY1dET29JcGJRbW5mTGxJcVBZaGdOZDQwcmN5alRNOGxJU0tDSEdkdkdyUjRLVDVFRm1RTTBaSm8vUXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzEzNDg2CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6Ci9JVXhXNjJBeVpUWXYwSFJYRTN3NXMwcHBDTVBJUTdjc2xWc0MzQVV1MnRZekNZUnI0SWtPM0NHR243VXBOOWdZelQ2NEdxM2VEM3lvNUFBaXpsaENBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.44.2_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzhQSGlkYk53d2JwbS9UR3dlQ2hRT25oandpMGd5eHZJSGRuZWxLSFpsQTZ6NU5NdlhwOFBBTHlNUEt5WmJRd3NCZExUUHJkWWI1anVTWW9CSVAyVUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjcwNTkzCWZpbGU6Q29yeWx1c18xLjQwLjBfeDY0LXNldHVwLmV4ZQpXQk5hV0xEdjYrYnpXVGloMHJoTkdna1hpNWRUOE9sdlFPRnlwYXAxaVB4YUFzOGFBYU5OMzNLMzIvcEFUczlka1VpMTFBL0svU1BSMXNzTS9SNEpBQT09Cg==",
