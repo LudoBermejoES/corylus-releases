@@ -1,11 +1,11 @@
 {
-  "version": "1.39.9",
-  "notes": "- Fixed the spellcheck/synonyms menu spilling off-screen when it opened low in the window with many entries. It now repositions to stay fully visible and scrolls internally if it's taller than the window.",
-  "pub_date": "2026-07-09T06:31:31Z",
+  "version": "1.40.0",
+  "notes": "- You can now save your whole project as a single portable .cory file (File → Save As...) and open it again on another computer (File → Open Archive…, or just double-click the .cory file) to pick up right where you left off.",
+  "pub_date": "2026-07-10T08:34:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzlNa1lDVXpnWERMWTB5NERXdWk5SERuZEowMko1VW0yT1hpVGJ6UFlzNW1HTVdkVXQwTlhQRTlSd1ZkcjYxd3pEdDdGNExjV3ZDdlFvTHEyei9HM3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTc4NTcyCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CmVtR05vSmFnU1gwbnFORzRjaXRGZHg1ZmM4L2ZUVThROHFXV01FaVUxQ0FSVVlaYXN3WWdBUnJmWGo0VTd5WkxZdmtucDl0M21OakdjTS9YK2VNMERBPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.39.9_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mbzk3QmxPNXlXaTRCUXMzSGV2L3NhdFEydWJnVGJSakQ4bncrVG4ydTZSNVdNWkZjMytJaWJ6ZFNac2lYK1VVcmhSSEYyckZoZFB2d0NUeE42ZndSYVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjcyMTgzCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CnZXeHhhK0ZrYkEzSjAyc1F3TlhXa0p6dzlxYXgrTlVrOVhvRDZTS2pvVXNKNmR2ODdOelVSSjIyNk5WMFJrdGNCcktlS1NHQ3JuVVRCS2V3azNKZUNRPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.40.0_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbytCUlkxaEIzS3B0MXBPSU9xVVpCTHo4dU5nRlFkT1N4eVBHeVZMY1N6Sm1sZ1hxcDZiMCtod1BUYjgvMUYzdnZwRmN4UXVuYnlHZmwrV040c1RCNkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTc4MTc4CWZpbGU6Q29yeWx1c18xLjM5LjlfeDY0LXNldHVwLmV4ZQo1dkFhT2xLeEhPbk9pNlhsUlJiZGc0NjN6MlB5a3ZPeVd0Z1QvWG5vK1cvL1VGM2xXOHhEN3NjRGYzeXRKd3pLWmRVK1I0bHp1TWlnUStGRFYyajlEQT09Cg==",
