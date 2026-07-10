@@ -1,11 +1,11 @@
 {
-  "version": "1.40.0",
-  "notes": "- You can now save your whole project as a single portable .cory file (File → Save As...) and open it again on another computer (File → Open Archive…, or just double-click the .cory file) to pick up right where you left off.",
-  "pub_date": "2026-07-10T08:34:35Z",
+  "version": "1.44.1",
+  "notes": "- Fixed distraction-free mode showing text pinned to one side (empty half + leftover divider) when entered from a split view — it now always shows a single centered column, restoring your split exactly on exit.\n- Distraction-free mode can now show an image or video background behind a translucent page, with a curated collection built in or your own file/URL, adjustable live from the distraction-free toolbar.",
+  "pub_date": "2026-07-10T17:53:32Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mbzk3QmxPNXlXaTRCUXMzSGV2L3NhdFEydWJnVGJSakQ4bncrVG4ydTZSNVdNWkZjMytJaWJ6ZFNac2lYK1VVcmhSSEYyckZoZFB2d0NUeE42ZndSYVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjcyMTgzCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CnZXeHhhK0ZrYkEzSjAyc1F3TlhXa0p6dzlxYXgrTlVrOVhvRDZTS2pvVXNKNmR2ODdOelVSSjIyNk5WMFJrdGNCcktlS1NHQ3JuVVRCS2V3azNKZUNRPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.40.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzRnQ2VTTnp6OTI3MWVXVitsQWhPVlc1bm1FZnhCL2c3V1dRbkEyNEtRUFE2Zy84VTZvY0VEaXJKdUJ2SXJIcE5KVit2RlZjOVgvKy9SWWVPN1dmRHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzA1OTg4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CldNRzhtTlZ4TjRRZGFJYUZyZktCV2JZR2YwNGpFdFZRcGN5ZEJFNW1GcXZxLzBKMFo3MWtHQlFhdGlvWmxsOFRnQ1pZNUE3NzNmMnJDQlNqdE52L0FnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.44.1_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzhQSGlkYk53d2JwbS9UR3dlQ2hRT25oandpMGd5eHZJSGRuZWxLSFpsQTZ6NU5NdlhwOFBBTHlNUEt5WmJRd3NCZExUUHJkWWI1anVTWW9CSVAyVUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNjcwNTkzCWZpbGU6Q29yeWx1c18xLjQwLjBfeDY0LXNldHVwLmV4ZQpXQk5hV0xEdjYrYnpXVGloMHJoTkdna1hpNWRUOE9sdlFPRnlwYXAxaVB4YUFzOGFBYU5OMzNLMzIvcEFUczlka1VpMTFBL0svU1BSMXNzTS9SNEpBQT09Cg==",
