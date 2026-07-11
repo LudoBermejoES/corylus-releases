@@ -1,11 +1,11 @@
 {
-  "version": "1.44.2",
-  "notes": "- Fixed the distraction-free background file picker not showing WebM videos by default.\n- You can now replace an existing distraction-free background directly — no need to remove it first.",
-  "pub_date": "2026-07-10T20:06:34Z",
+  "version": "1.45.1",
+  "notes": "- New: Ambient Sounds — a mixable background-noise board (rain, waves, café chatter, and more) to help you focus while writing. Enable it from Settings or the toolbar button next to the split-view controls.\n- Fixed a rare issue where enabling Ambient Sounds twice in quick succession, or disabling it mid-download, could leave the module in a bad state.",
+  "pub_date": "2026-07-11T13:00:55Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzNtdHYxY05FeW1JTm9QTXFMTUV6MXE0am5nY1dET29JcGJRbW5mTGxJcVBZaGdOZDQwcmN5alRNOGxJU0tDSEdkdkdyUjRLVDVFRm1RTTBaSm8vUXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzEzNDg2CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6Ci9JVXhXNjJBeVpUWXYwSFJYRTN3NXMwcHBDTVBJUTdjc2xWc0MzQVV1MnRZekNZUnI0SWtPM0NHR243VXBOOWdZelQ2NEdxM2VEM3lvNUFBaXpsaENBPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.44.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzYyaU9KTnRnRXhib2M3YU55eUNqSmJqdWpwRkF3OEp2WW1kTFdRd2VxQWxpbk8yekI1dk43Y1lCelIwM0JVN0tWdTIzTWgzRUh5MVgvQ1VEZk52UkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzc0NTY3CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CnRNbFp6V29xQmczZHpYMFVpcExpaGRsSEVzQ1NsR0xuTkVIa0pWS0NKZTgrbS9OUHZ2Vit2M0FKWGFncWlQREZjdmwwckFyRzgrbFJnTElHVDU0SkR3PT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.45.1_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3o0MFpQN0traXk4SjVSZHVMaTlwK0FJblVnOFpEcVl4eE1KMG1CMzVMakpLNnpVc1RzeW1WOGlOeHJUZDFqTytyODg0OHdhNUxyL2JtS3JIWk5ZbVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzE0MjkwCWZpbGU6Q29yeWx1c18xLjQ0LjJfeDY0LXNldHVwLmV4ZQoxdWJTNGdvWkkzejN0bDAySDh0VnVtZmNSRzRkcTVnTk1NRkJDU3duWkJPYzl6LzMyWmt6L3hJT3Q5MVBwRUJUS2x4eWJ6cUViMmVhRXRXVDJoNnFBQT09Cg==",
