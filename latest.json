@@ -1,11 +1,11 @@
 {
-  "version": "1.48.1",
-  "notes": "- Ambient Sounds now has a play/stop button in the toolbar and the distraction-free bar, so you can pause and resume your current mix without opening the mixer.\n- The mascot can now play or stop your ambient sounds, open the sound mixer, toggle distraction-free mode, and open Settings — just ask.\n- Settings now links to the wallpaper gallery for distraction-free backgrounds.\n- Fixed a bug where a \"document modified externally\" prompt could appear while you were just typing, with nothing outside the app having touched the file.",
-  "pub_date": "2026-07-12T10:51:00Z",
+  "version": "1.48.4",
+  "notes": "- Really fixed the \"document modified externally\" prompt that kept appearing while you were just writing — it was the app misreading its own saved file, not an outside change. Documents now save and reload cleanly.\n- Fixed the app restarting several times in a row after an update and showing the \"What's new\" list repeatedly. An update now applies once, cleanly.",
+  "pub_date": "2026-07-13T06:10:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3crVDNMTnRwQzhhRE8zQ3AvMDRHRlIzR0pTMS93c2ZxUnR5a2hnQnN6bG5IMFB0L3kzdyt5U0N0cGc1Q0c0MTdqNVFmdVY4Q0xaSW5RQ2hFNlhYQ3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODUzNDU1CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6Cmd2a1poVml0M2M4TXYxNDc3WGJzZWoxN0hXQXJVc3F6a2ZmUnhUNENWTjcxMlNYY24vNGdMdWtqQ2xGSXhPSVlFQ3F6MmdETTBZRHdyek5OOXNQQ0J3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.48.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzdhV0xkaFQzK0EwdnpIRVhMQTVReGtkRmtxbUxraFliZzRHZDJ2b3JJWk5yd0I4dmhwdFJ1WVdKTG13MEpPbURXVzN2SlhLQTBwWmVUaTRUT1dDZ3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzOTIyOTUxCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CkNNamMzeDlGeUFkaTRRRWxZaVhGRXdsMjV6MUdPc2FaY3FscWFrVk5pcEJwTWMwblp6azRwUU1jbWRESnZxWTN3NUorWHN0WDA4dVNLc0VBcGJaTkNBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.48.4_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbytSdG5BekxaTm94bElybVExYmgwcHRUN0VZVEhVV2VlQi93bXZkelZ1YnVDZk1KVHZuekc4NW8rNXAyMFpHT1NLdzd2c1lyZS84ZysrNW9CdGlKN2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODU0MTI3CWZpbGU6Q29yeWx1c18xLjQ4LjFfeDY0LXNldHVwLmV4ZQowTHRUZDhjL0dqWnI3Y29kWEp0aERpUTE0OXhxaTFCd1JVV2tIWXEwdVRJRGFwdXFudzZYN244S0tWeUwzMFpmQjNPd1Q4TTFUNjRqTmRIQkIzQWVBUT09Cg==",
