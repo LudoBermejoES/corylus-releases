@@ -1,0 +1,11 @@
+{
+  "version": "1.51.0",
+  "notes": "",
+  "pub_date": "2026-07-15T16:24:24Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzBNZVJVZFZnSytBNVBBMStQVFlFQWNqQ255K05EdUVwaWdPb3BvZFVUaUtWWnFpak5idXZjZ2dEUjRJRnFEWmVaNTZhVC9aQ2dBcDNxYjJnRTJTdncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTMwOTk1CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CktDZFFsUVNQMGZueENUc1YvaytDSGxmSEJQMWR0UnY0YXFXMHUrYTJ4V1JINGlkdGxRRmhpK1RhcUc2NFUzQWtQaHVCN0hTOEtCc2txa2NMNmRlSkNBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.51.0_aarch64.app.tar.gz"
+    }
+  }
+}
