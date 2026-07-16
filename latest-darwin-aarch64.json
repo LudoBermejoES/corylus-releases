@@ -1,11 +1,11 @@
 {
-  "version": "1.51.2",
-  "notes": "- Fixed a false “document modified externally” prompt that could appear while typing quickly.\n- Fewer false spelling flags: valid but less common words your thesaurus knows are no longer underlined.",
-  "pub_date": "2026-07-15T19:39:25Z",
+  "version": "1.53.0",
+  "notes": "- Create your own typography presets — a new editor (the “+” in Settings → Typography, or Duplicate any preset) lets you set body/title fonts, size, spacing, indentation, alignment, hyphenation, drop cap and more, with a live preview. Custom presets are saved and appear alongside the built-in ones.\n- Settings reorganized into “This Project” and “Application” groups, with a new “Language & AI Packs” hub for every downloadable dictionary, language pack and AI model.",
+  "pub_date": "2026-07-16T16:30:44Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzM1RUtvcmxYZUlQeHFkWWlrb24xWDFRcmhBNVlLNmtMSFJyc09QSC9HNGFzUTJqZUpLS0d5VFVPb2dpS1Z3ZGNLZExBMGdzcWJqZnY4M3lLM0JFa2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTQ0Mjg4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CldadDZKYk1TcUp0OGNFZ09UbnFaUENrcXdNeXVOZUt2WFl4WDlueU5TeGhuRU5MbGFydUs5ZVVxcm45MlpLMmt0VnFkZnJnYlY0VWc4a1BNOVZPVkJnPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.51.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzQrWnVRaVhOdGVBMDlYNmkzYjJTZXhjaTB2VUd0TWF6S3YxU0MwTlpNR2RRdXNBckxwbTVRSmF1dHlJckhjNmVWQWl2TWhWSjRhRFBoMG1Xc0ZmUFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjE5Mzc4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CjhKdnh3QmpPTFVEd2J0VlVISnVDdUtPSmorUXhDQ2FJQjFiRS9pa3VoY1VlY2IvYjdHSnFPalhOUlZGYkZ0Y0pnazJhakhncEk3SmpqWXM4SG1qV0JnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.53.0_aarch64.app.tar.gz"
     }
   }
 }
