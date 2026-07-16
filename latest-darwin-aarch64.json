@@ -1,10 +1,10 @@
 {
   "version": "1.53.0",
-  "notes": "- Create your own typography presets — a new editor (the “+” in Settings → Typography, or Duplicate any preset) lets you set body/title fonts, size, spacing, indentation, alignment, hyphenation, drop cap and more, with a live preview. Custom presets are saved and appear alongside the built-in ones.\n- Settings reorganized into “This Project” and “Application” groups, with a new “Language & AI Packs” hub for every downloadable dictionary, language pack and AI model.",
-  "pub_date": "2026-07-16T16:30:44Z",
+  "notes": "- Create your own typography presets \u2014 a new editor (the \u201c+\u201d in Settings \u2192 Typography, or Duplicate any preset) lets you set body/title fonts, size, spacing, indentation, alignment, hyphenation, drop cap and more, with a live preview. Custom presets are saved and appear alongside the built-in ones.\n- Settings reorganized into \u201cThis Project\u201d and \u201cApplication\u201d groups, with a new \u201cLanguage & AI Packs\u201d hub for every downloadable dictionary, language pack and AI model.",
+  "pub_date": "2026-07-16T16:36:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzQrWnVRaVhOdGVBMDlYNmkzYjJTZXhjaTB2VUd0TWF6S3YxU0MwTlpNR2RRdXNBckxwbTVRSmF1dHlJckhjNmVWQWl2TWhWSjRhRFBoMG1Xc0ZmUFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjE5Mzc4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CjhKdnh3QmpPTFVEd2J0VlVISnVDdUtPSmorUXhDQ2FJQjFiRS9pa3VoY1VlY2IvYjdHSnFPalhOUlZGYkZ0Y0pnazJhakhncEk3SmpqWXM4SG1qV0JnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzNtUWpFZ0V5U0JJL01JdXdTM0R5V21rbUtnNndFd0N3TVJsUGM0MEZjM2VmcTFmRUZhMHE4UC9ac3pNUTV4VWFNeHFTVVRrdnhSUzFnWmFqMEhXUmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjE5NzYwCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CmwvMFFRTGs2QUhKdjJXZWNPNW1mcUxmQk0zOFR0dytmTjBUSkxSRzF4b2d1TmtZOHljSGFzai9iMUhBMWlEV1hZSmMwaXhDYTFScmp4TmxBRmVmS0FRPT0K",
       "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.53.0_aarch64.app.tar.gz"
     }
   }
