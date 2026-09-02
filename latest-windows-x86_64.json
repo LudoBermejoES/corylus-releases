@@ -1,11 +1,11 @@
 {
-  "version": "1.53.1",
+  "version": "1.53.2",
   "notes": "",
-  "pub_date": "2026-08-21T13:33:19Z",
+  "pub_date": "2026-09-02T07:30:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzRkUFV2T2ZnTnVQcm01VlE2WUJUS3YrSjBoMVNoc0daaG8zSjQzbkJkM2NGbWMvcW1DaTlYN1ZiaEdFbjFOa0RiTm94OE1CVkFWN0h0VjVyYXFPc0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MzE5MTUxCWZpbGU6Q29yeWx1c18xLjUzLjFfeDY0LXNldHVwLmV4ZQpIUjRRWGFJVnM5NTdCVzgzRzJYSitocUh3WWo1WTN0cnRNd0FSWUJPRVg3ZGxUcGJ6V1lRMXVaY09oZXNlU3U5ejFtL09WaERvUDNqa2x4ei9FTkJDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.53.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzYvOTVraCtSczJMRDhZMVhGN241M1dXWTBLWERPWjFyT2xQU3VRZWJLZWN4Y3FLZ25TRUpVY3QwL0h4eCsvZjVyazlOVVU3M2xvSEp5VGhoM04ycEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzM0MTAyCWZpbGU6Q29yeWx1c18xLjUzLjJfeDY0LXNldHVwLmV4ZQpkTlFqL1RyU20zVEFUZHlGT0xYbmdya2JTOFg3WmtWVWs3YTN0TFNnM1oyWjhZZmxZbmNyR3liTTV6WDBSbFg1dCtZbWNJVDJJVG5ENUNaUHdMcVZDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.53.2_x64-setup.exe"
     }
   }
 }
