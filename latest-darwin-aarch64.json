@@ -1,11 +1,11 @@
 {
-  "version": "1.53.2",
+  "version": "1.53.3",
   "notes": "- Fixed a Windows-only bug where pasting text (even a single word) added a blank line before and after it. Pasted text now lands exactly as copied.",
-  "pub_date": "2026-09-02T07:02:31Z",
+  "pub_date": "2026-09-02T09:11:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3kwOEp2WDZFK1ljRENhSmkyMEFvVWprK1ZYUUJYRkFVTXl6cUZxLzcrZEhubm50K1A1UUlITnd6UnpSSkJybnV2dVZLSXB2Sk41K0g2ZEhGajE4QmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzMyNTM5CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CkNPUDJhTjYwRkwrSU96S2xQdjh5NEdYUERHRXlaMmdHZ21VUVI4Z3BFZ1FtNFF6Z3FvZW5WaTN6Y3FiZVhzdElVQnkwUTl4TGQ0dVNwQjJMWUFkQ0N3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.53.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzlJNWNPWEoyQWhiQzVTOG5Jc3FCUjRWNG9vd0FWYVlndGtIWCs0dVZrUUMwQTE5TWt0Zk5JWkZ5UW82c3c5MnQxQ3ltcEFOTlRwaHpDK3BMNmFoV2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzQwMjU0CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6Ck5kb2RHNzQ0MEQ2K2ZNaVN1M3A4cmdOc08zV2ZqK29qZWJReEZONE8wTVZRYkJEL3FGREdNd094R0ZEeWZERUFUbUpMb25WeUF3SHFQTnNLMWhjR0J3PT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.53.3_aarch64.app.tar.gz"
     }
   }
 }
