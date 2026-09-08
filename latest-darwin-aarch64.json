@@ -1,11 +1,11 @@
 {
-  "version": "1.53.3",
-  "notes": "- Fixed a Windows-only bug where pasting text (even a single word) added a blank line before and after it. Pasted text now lands exactly as copied.",
-  "pub_date": "2026-09-02T09:11:01Z",
+  "version": "1.64.3",
+  "notes": "Cloud sync is far safer for projects kept inside Dropbox, OneDrive or iCloud: Corylus no longer stores anything machine-specific inside the project folder, so another computer's search index or sync bookkeeping can no longer overwrite yours. Existing projects migrate automatically the first time you open them.\n\n- Fixed a bug where one interrupted sync could stop a project syncing permanently, with a terminal command as the only way out.\n- Fixed a bug that could hide a document in the binder while its file sat safely on disk, most often after syncing between a Mac and a Windows PC. Affected projects repair themselves on the next open.\n- Fixed a Windows bug that could lose an edit Corylus had just merged, because the editor kept showing the old text and the next automatic save wrote it back.\n- Trashed folders and images are reachable again.\n- \"Sync now\" now publishes this computer's binder structure when the two computers cannot agree which is newer; automatic syncs still leave it alone.\n- Your backup folder is remembered per computer instead of travelling with the project.\n- Corylus refuses to open a project archive whose contents would be written outside the folder you chose.",
+  "pub_date": "2026-09-08T13:13:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzlJNWNPWEoyQWhiQzVTOG5Jc3FCUjRWNG9vd0FWYVlndGtIWCs0dVZrUUMwQTE5TWt0Zk5JWkZ5UW82c3c5MnQxQ3ltcEFOTlRwaHpDK3BMNmFoV2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzQwMjU0CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6Ck5kb2RHNzQ0MEQ2K2ZNaVN1M3A4cmdOc08zV2ZqK29qZWJReEZONE8wTVZRYkJEL3FGREdNd094R0ZEeWZERUFUbUpMb25WeUF3SHFQTnNLMWhjR0J3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.53.3_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3hKbHYrUUpEOHA1QXN5Mkc5QkUxVDRoT0lmbTFxU25LeVoyTFQ1Vk1CVVhibS9jK2lVcS9pOEsra3lBQlM2MWx0ZmVTREtYV0dXME9sU1dqWkNWTUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODcyODIzCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CkZ1SE1pZ3BtYjVMR1ByVmRyc0Y2cnN4ejc5b2JLdUtNVmU5LzNlNE1sRENnTENrNWZwa2crSVJ2S3pReDlkSFdhQ2o5UHBoQ3hXeXNWY1ovem9HQUJBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.3_aarch64.app.tar.gz"
     }
   }
 }
