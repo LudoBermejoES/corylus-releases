@@ -1,11 +1,11 @@
 {
-  "version": "1.64.9",
-  "notes": "On Linux, Corylus now notices when a document is edited by another program. It never did: a file's own closing was overwriting the record of the write that preceded it, so the change was discarded before anything was told about it. This affected Linux only \u2014 on macOS and Windows external edits have always been picked up.\n\n- Search can find your writing again: saving a document was erasing its text from the search index a fraction of a second after writing it, so searching only ever matched titles and synopses. Every affected document is re-indexed automatically the next time the project opens.\n- Fixed a bug that could make Corylus read a document as if it had no title, no synopsis and no identity at all, and then treat it as a different document. Whether it happened depended on where the accented letters fell in the text.\n- Documents can no longer disappear from the binder while their file sits safely on disk. Affected projects repair themselves on open.\n- A document moved into a folder could stop being found by search, because its entry still pointed at the folder it came from.",
-  "pub_date": "2026-09-11T19:31:12Z",
+  "version": "1.64.12",
+  "notes": "On Windows, a document open in two windows now refreshes in both when you save. It never did: the two windows identified the document by paths written with different separators, so they never recognised it as the same file. The case you would most likely hit is editing in a popup window and closing it \u2014 the main window kept showing the text from before the edit.\n\n- Backups now restore a file whose name contains a backslash as the same file. On macOS and Linux a backslash is an ordinary character in a filename, but the backup stored such a file under a changed name, and restoring it recreated it inside a folder that had never existed. Existing backups are unaffected for every other file; only this one shape was ever stored wrong.",
+  "pub_date": "2026-09-25T07:49:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzhiUjBFdHBiSnZtTHh1Q1Vsc1k5Tndua3UxNStvOUIwYWxxQzlrOTRxOEVtSzdIc0I4OVZWRi9uQzRIVmZPZTR0S09mTnFmQ3orUnkrM1RpSmlINXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTU1MDQxCWZpbGU6Q29yeWx1c18xLjY0LjlfeDY0LXNldHVwLmV4ZQo4UjRxOXY1NlhjMlRzSk9XZmFSUW5ScGRRdjg5UHQvVU8vS282OTlzK3U5aEQ5TGlDSk41cEhSN0Z0RXc0bFpoVEJkYUVpaGlEZTVrWVhmZURnbnNEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mbzd3c3o4MnkrV2xXT2kvR2xPREVVZWdGRndZeHVsSXVWWEVndWlJdHp0TjYzei9QRW8vTjNGVUlnaittTVViOTJJell1d2ptanRFVHMxKythV0R6VXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzIyNTQ2CWZpbGU6Q29yeWx1c18xLjY0LjEyX3g2NC1zZXR1cC5leGUKN3Fod1FjZm1MK01Wc3BqcUdJVUN0ZjByYkltQlJVdys5L1BSdXJKM1JNRWhnMGZpWDBpRkpTcGxKV1JQcHU3V3ovZGR4LzVDcjM0QUQrd0RzbGJFQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.12_x64-setup.exe"
     }
   }
 }
