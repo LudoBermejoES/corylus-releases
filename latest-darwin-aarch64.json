@@ -1,11 +1,11 @@
 {
-  "version": "1.64.9",
-  "notes": "On Linux, Corylus now notices when a document is edited by another program. It never did: a file's own closing was overwriting the record of the write that preceded it, so the change was discarded before anything was told about it. This affected Linux only — on macOS and Windows external edits have always been picked up.\n\n- Search can find your writing again: saving a document was erasing its text from the search index a fraction of a second after writing it, so searching only ever matched titles and synopses. Every affected document is re-indexed automatically the next time the project opens.\n- Fixed a bug that could make Corylus read a document as if it had no title, no synopsis and no identity at all, and then treat it as a different document. Whether it happened depended on where the accented letters fell in the text.\n- Documents can no longer disappear from the binder while their file sits safely on disk. Affected projects repair themselves on open.\n- A document moved into a folder could stop being found by search, because its entry still pointed at the folder it came from.",
-  "pub_date": "2026-09-11T18:39:00Z",
+  "version": "1.64.12",
+  "notes": "On Windows, a document open in two windows now refreshes in both when you save. It never did: the two windows identified the document by paths written with different separators, so they never recognised it as the same file. The case you would most likely hit is editing in a popup window and closing it — the main window kept showing the text from before the edit.\n\n- Backups now restore a file whose name contains a backslash as the same file. On macOS and Linux a backslash is an ordinary character in a filename, but the backup stored such a file under a changed name, and restoring it recreated it inside a folder that had never existed. Existing backups are unaffected for every other file; only this one shape was ever stored wrong.",
+  "pub_date": "2026-09-25T07:35:20Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzRHTUw5dXNlR0x5cnk0bEg0VEE1Y01RYW41UEUzQkNPMWRnM2VlMGhCa25paDgxQnd4TitMNlFRZHQ5Mkp6eWlmc2hlb1RjSHZXd1FhVGgrWm1nM3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTUxOTI3CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CnNaVXFYaU5sUmhRancwRHpjbnJYd0xDbWtrdFMzM3J4Q2FEZUVId29Dak1RcWZKdk5FYUZtT0RsNGcwbVBNU3lReUxiMS9lSXlEZnphRlhvbmIvS0RRPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.9_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzlyczhNSWhoelZZTnNVaFp4K044Nk56bit1bWhScnowazU0VzRlRzYxWnEwV3dHdGNTU2NzWkpiUWFiN1BrVFo0TTZTWEt5VmZOWFJFUHBuMFdaM2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzIxNjgyCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6Ck1oSTZvT2JSd1pIQWY1UDFYM01tSzNxMnA3TEZJZ1dIVnRPL3NlZ2dxaVMrYkpERCt2MFNnSWhNcDg4cSs4RldoR1ZJLzZhbFN0MnhSbis0enBPWUNBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.12_aarch64.app.tar.gz"
     }
   }
 }
