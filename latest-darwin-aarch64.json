@@ -1,11 +1,11 @@
 {
-  "version": "1.64.13",
-  "notes": "On Windows, a chapter that both machines had changed could disappear from the binder after a sync. Its text was never lost: it sat in the chapter's folder under a name ending in “.conflict1”, which Corylus did not recognise. Corylus now keeps the chapter in its place, holding this computer's version, while you decide between the two. If one version simply continues the other, it picks the newer one on its own. A chapter already affected is put back automatically on your next sync.\n\n- A sync that stops responding is now cancelled rather than left running in the background. A stuck sync could carry on uploading unnoticed and hold up every sync after it, and that is how a normal edit could end up reported as a conflict.",
-  "pub_date": "2026-09-28T11:21:20Z",
+  "version": "1.64.14",
+  "notes": "Deleting a folder for good now removes its documents from search too. They used to stay findable: searching still offered them, and opening one led to a file that no longer existed. Only the folder itself was being removed from the index, never the documents inside it.\n\n- Double-clicking a Corylus archive now opens it even when Corylus is not already running. Before, the app started, showed the home screen and did nothing with the file, because the file was handed over before the window was ready to receive it.\n- If the file holding your binder structure cannot be written — a full disk, or another program holding it open — Corylus now tells you instead of appearing to save. A rename or a move could previously look applied and be gone at the next launch.",
+  "pub_date": "2026-10-22T12:44:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3p6NWlpOTZHZmZaWWdTbGd2eTBGZ2lLZ05xMmQ5SFl4UlVXbnNLYUphVmtMZU5qL29MMy9HdnNGODBESFRvSithbXZzcTZzdEZOSlhXRzQ3TzJnTnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTk0NDU0CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CmVjWldFekJHZVBTRVdGcnJvUXFkZFFXZ3lPUjMwN2dyMjhMZDh3VmJXdFc4YUFkeUVwc1I0dzd1NFM0a014VDgxSWFVbkpzQWNOTERjV25sK1NaZENBPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.13_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzRnTTZ3N0N0dWVVZG9hbEVKK21sOXV1elM3NnNzZndoN25yU29OT3RJNEZjV0tDVktCUzByMDJqZTZQWkxCbzc0Y0dhb1dSa0lPOTdGb24vZHJ1QlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjczMDYwCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CjZQcDhEMUNrdW04KyszNGJjS2FYYzNNcU54M1JwNnRmS2lBVWJOczJMRU5xNFE1QU1IWWtUbXYzNHhOM29DZGJrSnFkTW9sTmJoMmg0RWp1MGF4QUNBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.14_aarch64.app.tar.gz"
     }
   }
 }
