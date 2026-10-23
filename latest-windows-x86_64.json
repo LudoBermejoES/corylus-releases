@@ -1,11 +1,11 @@
 {
-  "version": "1.64.13",
-  "notes": "On Windows, a chapter that both machines had changed could disappear from the binder after a sync. Its text was never lost: it sat in the chapter's folder under a name ending in “.conflict1”, which Corylus did not recognise. Corylus now keeps the chapter in its place, holding this computer's version, while you decide between the two. If one version simply continues the other, it picks the newer one on its own. A chapter already affected is put back automatically on your next sync.\n\n- A sync that stops responding is now cancelled rather than left running in the background. A stuck sync could carry on uploading unnoticed and hold up every sync after it, and that is how a normal edit could end up reported as a conflict.",
-  "pub_date": "2026-09-27T10:25:56Z",
+  "version": "1.64.15",
+  "notes": "The spellchecker catches common typos again. It had stopped flagging “recieve”, “seperate”, “definately”, “teh” and others: once the thesaurus was installed, any word it recognised was treated as correct, and the thesaurus records misspellings as real entries so it can explain them. That check is now off unless you turn it on, under Settings → Spelling.\n\n- Deleting a folder for good now removes its documents from search too. They used to stay findable: searching still offered them, and opening one led to a file that no longer existed. Only the folder itself was being removed from the index, never the documents inside it.\n- Double-clicking a Corylus archive now opens it even when Corylus is not already running. Before, the app started, showed the home screen and did nothing with the file, because the file was handed over before the window was ready to receive it.\n- If the file holding your binder structure cannot be written — a full disk, or another program holding it open — Corylus now tells you instead of appearing to save. A rename or a move could previously look applied and be gone at the next launch.",
+  "pub_date": "2026-10-23T08:00:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbytiOEwwZlNaOTFBN29aelpHTDdZZ2wzZlFULzRnMVptRzMyblVMcG94YTk0MVpSNFM5Vks0NFlWYXVCTkNpY1ZRckVGNUZkWmtvd2JOMWR4RUFJZWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTA0NzMxCWZpbGU6Q29yeWx1c18xLjY0LjEzX3g2NC1zZXR1cC5leGUKMzF2dlBhUkxqaHd5ZFNyNlpwRjJ3LzMvUnJlV0E4ajdnYUlUL1pNc04vY2RUR2ZJV1o1YzcrUk9LS3NkNWtVNHM2UVNSdmNWaGhESkRHaWV1Y1dNQlE9PQo=",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzEzV3UxeWNVVkRTRDZJQmx0dmxiMHJjQ1lTNzhMcEx4QlVEVWI3SGd5d2x3RnM3SkJMY3dNZk1najc5WnAveW9sVUdKUFJUcE1KSy9jKzhOdDNka2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQyNDA5CWZpbGU6Q29yeWx1c18xLjY0LjE1X3g2NC1zZXR1cC5leGUKRG1oRWdSQ1huVzNudjdNTlQvYWJXT213eHJJaUxoOWtYN2l0M0VFMm9tN2ZoalZ6RlhDcDJuNVlhb3hGS3Z5amVCRUdlVkpIRjQzaVdOaktBeVh0Q3c9PQo=",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.15_x64-setup.exe"
     }
   }
 }
