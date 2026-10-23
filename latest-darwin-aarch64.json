@@ -1,11 +1,11 @@
 {
-  "version": "1.64.15",
-  "notes": "The spellchecker catches common typos again. It had stopped flagging “recieve”, “seperate”, “definately”, “teh” and others: once the thesaurus was installed, any word it recognised was treated as correct, and the thesaurus records misspellings as real entries so it can explain them. That check is now off unless you turn it on, under Settings → Spelling.",
-  "pub_date": "2026-10-23T07:07:00Z",
+  "version": "1.64.16",
+  "notes": "Undo after an automatic replacement now gives you back exactly what you typed. Typing two hyphens still becomes an em dash — but pressing undo once leaves “--” in place, instead of swallowing a hyphen along with it. Press undo again to remove them.\n\n- Updated the editor and networking libraries Corylus is built on, closing a set of reported security issues — including one in how pasted content is handled, and several in the secure connections used for updates and dictionary downloads.",
+  "pub_date": "2026-10-23T09:44:03Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzdiNmhYK09FdTAxVVA1ejNBOFNpOFR2UFpZbUtldVFvTXhDQUtOYVRWd3o5c1NpbEdZWjFDbXF5TVF2MHRxOTBvam9OY3NnTzhycFluQ0VNMXlUV0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzM5MTk2CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CnJlM01ZZnplTDU2Mzl6VmdRT1BJRlBXQUVLOTlZWjZ5QnpWaEhvNzJGQmV2RjBVbXdFbkk0TU9Yc3NSK1BMQ2s5V2IrWTY4MllXMUV0Tzc3TmlaakF3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.15_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3hnL3BZb0UxNzBVWTBLdDhTR1dObGZZUUd5czZsWVIwSFJNd0xLMlVkeVMrSHhXU3R1TjdxaDM5K2w5UGRBM2ZBbi82Q0dSSzhscGRMallTOGxpRWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQ4NjE1CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS42NC4xNgpzTXZ5TU05Wnhua2I1TjZoV3laYnZCVEJ1a1BiLzFTS0ZyQzVqS1BEM2FaeHMrQVE0bXNoTW11ekF0ay82WE5DOUdDOTJLQThqcFVzS1c3T1IxazFDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.16_aarch64.app.tar.gz"
     }
   }
 }
