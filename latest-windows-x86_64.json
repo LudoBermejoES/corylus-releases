@@ -1,11 +1,11 @@
 {
-  "version": "1.64.15",
-  "notes": "The spellchecker catches common typos again. It had stopped flagging “recieve”, “seperate”, “definately”, “teh” and others: once the thesaurus was installed, any word it recognised was treated as correct, and the thesaurus records misspellings as real entries so it can explain them. That check is now off unless you turn it on, under Settings → Spelling.\n\n- Deleting a folder for good now removes its documents from search too. They used to stay findable: searching still offered them, and opening one led to a file that no longer existed. Only the folder itself was being removed from the index, never the documents inside it.\n- Double-clicking a Corylus archive now opens it even when Corylus is not already running. Before, the app started, showed the home screen and did nothing with the file, because the file was handed over before the window was ready to receive it.\n- If the file holding your binder structure cannot be written — a full disk, or another program holding it open — Corylus now tells you instead of appearing to save. A rename or a move could previously look applied and be gone at the next launch.",
-  "pub_date": "2026-10-23T08:00:26Z",
+  "version": "1.64.17",
+  "notes": "The spell-checking engine moves from Hunspell 1.7.1 (2022) to 1.7.5, picking up three upstream releases of crash and correctness fixes. You should see fewer odd results on unusual words, and the checker is harder to crash on malformed input.\n\n- Undo after an automatic replacement now gives you back exactly what you typed. Typing two hyphens still becomes an em dash — but pressing undo once leaves “--” in place, instead of swallowing a hyphen along with it. Press undo again to remove them.\n- Updated the editor and networking libraries Corylus is built on, closing a set of reported security issues — including one in how pasted content is handled, and several in the secure connections used for updates and dictionary downloads.",
+  "pub_date": "2026-10-23T11:31:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzEzV3UxeWNVVkRTRDZJQmx0dmxiMHJjQ1lTNzhMcEx4QlVEVWI3SGd5d2x3RnM3SkJMY3dNZk1najc5WnAveW9sVUdKUFJUcE1KSy9jKzhOdDNka2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzQyNDA5CWZpbGU6Q29yeWx1c18xLjY0LjE1X3g2NC1zZXR1cC5leGUKRG1oRWdSQ1huVzNudjdNTlQvYWJXT213eHJJaUxoOWtYN2l0M0VFMm9tN2ZoalZ6RlhDcDJuNVlhb3hGS3Z5amVCRUdlVkpIRjQzaVdOaktBeVh0Q3c9PQo=",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzdoZlRzcGtHdEJhWWJFNDY1NDBzVzdxYUMvWDAwVVpsZTk0azFzeGNoOGFLeThoVFhwTWhBSlg2MTB1bE5ZcHpQbUpQdG1QY0RuZGdkMnZadGFnN3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzU1MDUwCWZpbGU6Q29yeWx1c18xLjY0LjE3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjY0LjE3CjNYblgwcnZjeE83dVJ2SURPTHNiQ0h4M25WdUE3eTBzbExDSm8zNUlwRFJ3SHZWVFdmbWFDUXFzclh1SGtxZ211L0RvdWlBcHNxd2JqWlBsQzdOYUNBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.17_x64-setup.exe"
     }
   }
 }
