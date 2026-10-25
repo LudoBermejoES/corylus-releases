@@ -1,11 +1,11 @@
 {
-  "version": "1.64.17",
-  "notes": "The spell-checking engine moves from Hunspell 1.7.1 (2022) to 1.7.5, picking up three upstream releases of crash and correctness fixes. You should see fewer odd results on unusual words, and the checker is harder to crash on malformed input.\n\n- Undo after an automatic replacement now gives you back exactly what you typed. Typing two hyphens still becomes an em dash — but pressing undo once leaves “--” in place, instead of swallowing a hyphen along with it. Press undo again to remove them.\n- Updated the editor and networking libraries Corylus is built on, closing a set of reported security issues — including one in how pasted content is handled, and several in the secure connections used for updates and dictionary downloads.",
-  "pub_date": "2026-10-23T11:31:09Z",
+  "version": "1.65.1",
+  "notes": "You can now open the Ambient Sounds mixer without leaving distraction-free mode: the ♫ button sits in the floating toolbar, next to play/stop, whenever Ambient Sounds is enabled. Press Escape to close the mixer and keep writing; press it again to leave distraction-free mode.\n\n- On Windows, a chapter changed outside Corylus — in another editor, or by Dropbox or a similar service — now shows its new text straight away. Before, the open copy kept the old text, and new files added to the project folder did not appear in the binder until you reopened it.",
+  "pub_date": "2026-10-25T15:42:46Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzdoZlRzcGtHdEJhWWJFNDY1NDBzVzdxYUMvWDAwVVpsZTk0azFzeGNoOGFLeThoVFhwTWhBSlg2MTB1bE5ZcHpQbUpQdG1QY0RuZGdkMnZadGFnN3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzU1MDUwCWZpbGU6Q29yeWx1c18xLjY0LjE3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjY0LjE3CjNYblgwcnZjeE83dVJ2SURPTHNiQ0h4M25WdUE3eTBzbExDSm8zNUlwRFJ3SHZWVFdmbWFDUXFzclh1SGtxZ211L0RvdWlBcHNxd2JqWlBsQzdOYUNBPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzNkOEFpOEM1YUlxWlVlRitYRnZiNU9WVHd5dzNVcS9WM1VQczhiRVlCNWNDWmd5aGlBT2RUQ1BnRmpVZHZRb2hDTmlOL1VWN0NxODdQR0pJNlZuRncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQyOTQ1CWZpbGU6Q29yeWx1c18xLjY1LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNjUuMQpDZXZQb2dudUU4SGUvSFY0YVc0cGxDUmJPdG52NmlXTjY3R2NnSTBPTUg4V3pQZ3N3M1JubEVaUlJuSWFyUUNEaFB0NVQwQk56amNNU3Q3QTZZeHJBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.65.1_x64-setup.exe"
     }
   }
 }
