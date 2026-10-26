@@ -1,11 +1,11 @@
 {
-  "version": "1.64.17",
-  "notes": "The spell-checking engine moves from Hunspell 1.7.1 (2022) to 1.7.5, picking up three upstream releases of crash and correctness fixes. You should see fewer odd results on unusual words, and the checker is harder to crash on malformed input.",
-  "pub_date": "2026-10-23T11:21:17Z",
+  "version": "1.66.1",
+  "notes": "In PDF exports, chapter titles no longer overlap the first line of the chapter, and the first line of each page no longer rises into the top margin.",
+  "pub_date": "2026-10-26T21:32:48Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3pOY2Q5aVBpQ01mSE9OODM3NDc3RnlkaitjcWZBM1BuVndLM01tSzgzaFg4K0JyM2pLT2NPaXZlYkR3ejI5aE9uRHNyZ3BVSHpNY245SUJaTXV6b1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzUyNjM5CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS42NC4xNwpZclJiaERYekIydzROdlIxV0dTSDdYNmh0bnZMQlljNTh6OU5PVXc1L00xZ2MwbWt5NGc0aDNUN0dXNUd2dWFkU2M0d05nbkZMUW1PNUg4YXdjL3FDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.64.17_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzR0YjV2QnJ6MDBUWmFweVRDcUxySldsZ3pkTVZjQjBXaW1YMU9ibUFnNEdCbnhDL0FnL0w3WmNtRHF2OHZqdS9PcnR1aU1ZampTQUhiMWxmdWhqQXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDUwMzQ4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS42Ni4xCmV1cFdJdkx3Q2NpUDdjblRGUUxLMDdxZmdvNFE2TU1XWFZ0amQ4dU5TOE5QV0JnekFEdmJGMWJwc0lSc2xNWmZSTjRRZE9TMkJXaGFQNGtnNXprU0RRPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.66.1_aarch64.app.tar.gz"
     }
   }
 }
