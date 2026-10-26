@@ -1,11 +1,11 @@
 {
-  "version": "1.65.1",
-  "notes": "You can now open the Ambient Sounds mixer without leaving distraction-free mode: the ♫ button sits in the floating toolbar, next to play/stop, whenever Ambient Sounds is enabled. Press Escape to close the mixer and keep writing; press it again to leave distraction-free mode.\n\n- On Windows, a chapter changed outside Corylus — in another editor, or by Dropbox or a similar service — now shows its new text straight away. Before, the open copy kept the old text, and new files added to the project folder did not appear in the binder until you reopened it.",
-  "pub_date": "2026-10-25T15:42:46Z",
+  "version": "1.66.0",
+  "notes": "You can now choose what to compile. The Scope section of the Compile dialog lists your folders and documents with checkboxes: untick what you want to leave out, or press None and tick just one folder, such as your novel. Headings and numbering come out as in a full export, and Corylus remembers your choice for each project.",
+  "pub_date": "2026-10-26T20:21:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzNkOEFpOEM1YUlxWlVlRitYRnZiNU9WVHd5dzNVcS9WM1VQczhiRVlCNWNDWmd5aGlBT2RUQ1BnRmpVZHZRb2hDTmlOL1VWN0NxODdQR0pJNlZuRncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTQyOTQ1CWZpbGU6Q29yeWx1c18xLjY1LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNjUuMQpDZXZQb2dudUU4SGUvSFY0YVc0cGxDUmJPdG52NmlXTjY3R2NnSTBPTUg4V3pQZ3N3M1JubEVaUlJuSWFyUUNEaFB0NVQwQk56amNNU3Q3QTZZeHJBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.65.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3hiclAzcStvd1NDUUc1QThkd3MvRGhoOENRSkc0RUwrQzdFbUJ1VWxyZ1FuRlVmaENtSytRRG9Nc2V6TzA0Z1ZLNnRjV25ScjlQOTBrTjZVSk5IT3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ2MDg4CWZpbGU6Q29yeWx1c18xLjY2LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNjYuMAphNHVGOUpKcHZiSFVIU1gxTVdrRmxVandjZU9qbmFaVytXeDVYQWllVmVWellSVEJ0VjNwRkVJcFNkNGJmZDhHczgrWG1jT3NWeW1zYk8yTnVvdGpDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.66.0_x64-setup.exe"
     }
   }
 }
