@@ -1,11 +1,11 @@
 {
-  "version": "1.66.1",
-  "notes": "In PDF exports, chapter titles no longer overlap the first line of the chapter, and the first line of each page no longer rises into the top margin.",
-  "pub_date": "2026-10-26T20:44:55Z",
+  "version": "1.68.0",
+  "notes": "Changing a Story Bible entry's type now converts it: the name, image, tags, relationships, body and any field both types share are kept, and the old type's other fields are removed. If fields with content would be lost, Corylus names them and asks before changing anything.\n\nEntries with relationships no longer show the relationship's kind (such as Friendship or Alliance) as their type in the Story Bible tree, and a type change now shows up straight away.\n\nAn entry dragged from the Story Bible tree onto a canvas now lands where you drop it. Before, it could land far off-screen, so the drop looked like it had not worked.\n\nStory Bible sheets now show their image in a panel to the left of the fields, whole and at its own shape (portrait, square or wide), instead of a thin cropped strip across the top. On wide screens the fields stay in at most three tidy columns, and grouped fields such as Want vs. Need sit on their own row.",
+  "pub_date": "2026-10-27T08:55:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzR2RnlVVWFBWGFXZlpxUEpMb1hKNld5cVZrN2FwR21PbW9XdCswbHVieWUrenZ4WStjZXhaRHR4aWQvL01oaFpSdHNTTmdxNEFvWUU5NmRpQWx2dVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ3NDg3CWZpbGU6Q29yeWx1c18xLjY2LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNjYuMQpmVmpDSW10SGoveG5EUjQrbC9YM3BRYUdiQzFBb0NDaklIQ3BnVGFtaVNNNjZiangyY1hCQ2ZqU2k0b3FUeGVmL2wrMWxCLzIvcVV1YitBMW4zWFBBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.66.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzFxb0ZPYUdWYkN1REE4a0xNcWpBVURUakQ1bU5MdHJkaklUWVQyQmNGdUs5NmFYc3ZZTEltYm82NHdDeG1tZXEzdDhBMkczczFZZUlKbzd5V2gxcXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDkxMzE4CWZpbGU6Q29yeWx1c18xLjY4LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNjguMAo3bGpsS3NLWnVhZmRLb3dYL3dHdnAwdFZIRHE0M1JpbTZ5d0hsQlErWnk4RE92dHBtUlg5ZnJ0QlRQbEtQMTNuVzJkZFZDNVlnUWpTdUIxWXhsZzZBUT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.68.0_x64-setup.exe"
     }
   }
 }
