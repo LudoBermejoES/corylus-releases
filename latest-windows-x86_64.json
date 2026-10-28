@@ -1,11 +1,11 @@
 {
-  "version": "1.70.2",
-  "notes": "New: AI agents (MCP). AI apps such as Claude Desktop and Claude Code can now read your project and, if you allow it, edit it and work Corylus for you. Install the module in Settings → AI agents (MCP), add Corylus to your AI app there, and choose per project what agents may do: nothing, read only, ask you before each change, or change freely.\n\nYou stay in control: agents reach Corylus only while it is open and only from this computer, every change is snapshotted first, the activity log lets you undo any of them, and Pause stops all agent requests at once. Agents can never delete anything for good or change your settings.\n\nSearch results now show a document's text exactly as written. Before, text that looked like web code could be run by the search panel instead of shown.",
-  "pub_date": "2026-10-28T12:06:32Z",
+  "version": "1.70.5",
+  "notes": "The Story Bible's tag filter no longer takes over the panel. However many tags a project has, the filter keeps to a slice of the height and the tree stays visible underneath. It now shows the tags you use most first, and the rest sit behind a list you can search by typing, so no tag is lost just because it is rare.\n\nAI agents can read every document in the binder again, not only the ones open in a tab. Before, a document you had closed could come back as an error, or — worse — as empty text, when what you wanted was the file. Agents still cannot write underneath an editor.\n\nSearch results now show a document's text exactly as written. Before, text that looked like web code could be run by the search panel instead of shown.",
+  "pub_date": "2026-10-28T14:43:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzFheEVWdlJnaEFIUDlJM2Jhdjh1dkFrU0ZwVjFMWitFeDU5Yjg3eG4rMitsazJuT2E0Q3hTMnRsZEtoSCs0TW1QMlkwUjFHeElWdWpTM3ZSVkxsaEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTg5MTM4CWZpbGU6Q29yeWx1c18xLjcwLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNzAuMgpsTlZ5TEp3TG42U2VDU2J4aHBLTlhCTHVwMlZZcFAyRm51TU51RzMvZlQ2TVd4R1hmSGVHL3NNWE43cy9LZmh2enNtYU16MFd1SUtFVGpIcXZDek5DQT09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.70.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzhlVlpIWXlzaHBYaW9xSkQyOFVFRDhlTlRFSTFaUWk2Z2RSSm5GLy9lZkhraTI0Rm1jaWRvQmZIai9YMTFON2ZBa3NDc1IxT3hQeElQblFXNW9EYmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTk4NTYwCWZpbGU6Q29yeWx1c18xLjcwLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNzAuNQp6VTM2Sy9pSVp3TisvTnl1cjhyb2F3QkgvUmlVcXMrUzhwTXp1djB1UmVuTkpoejhyOWdLUlZJY2hiWnZybGU0V2RmRGtqRXhUSVdEQ3krbWw4MjdCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.70.5_x64-setup.exe"
     }
   }
 }
