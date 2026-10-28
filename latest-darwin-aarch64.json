@@ -1,11 +1,11 @@
 {
-  "version": "1.70.5",
-  "notes": "The Story Bible's tag filter no longer takes over the panel. However many tags a project has, the filter keeps to a slice of the height and the tree stays visible underneath. It now shows the tags you use most first, and the rest sit behind a list you can search by typing, so no tag is lost just because it is rare.\n\nAI agents can read every document in the binder again, not only the ones open in a tab. Before, a document you had closed could come back as an error, or — worse — as empty text, when what you wanted was the file. Agents still cannot write underneath an editor.\n\nSearch results now show a document's text exactly as written. Before, text that looked like web code could be run by the search panel instead of shown.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-10-28T15:07:31Z",
+  "version": "1.71.0",
+  "notes": "Story Bible tags can now be nested with a slash, such as faction/cerberos. The full tag list groups them, and choosing a group shows every entry with a tag inside it. While you filter, only the tags that still appear on matching entries are offered.\n\nNew: Manage tags, in the Story Bible's tag filter. Rename a tag in every entry at once, or rename it to an existing tag to merge the two. Corylus says how many entries will change and takes a snapshot of each one first.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-10-28T16:40:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3h5UkhVSFIyWGphQzRCdmZRb2JOSU5QOVZTek1IMlRPTFJBZDJIa3hWR1V4NjI3ajhKUDBUSHQ1MEY5cHRtdEZJNHVldXZBZllKRHhnOGZEcTA3Z1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjAwMDM1CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS43MC41CnZNSVRqSVA5d2RWNHNoV2RqekJna0JsbWplajg2ZEUyZVBnTGZuaitwWmw2NGdRZlRVRjVPUk0zRXNMNlR5elFOaExMLzZwYTVPU1c4ajFXOG5zQUJnPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.70.5_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3c5STRLaTZ6ZURaamg0ajFvaDhLVUxNdGdET013WGZKakZpVXJkT0ZDdzZFL0krQzNVdGdjLzZRQ1JFL2MzcXl5NmpoU2xTZkhVYTQ2THBuSGFGTkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjA1NjA2CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS43MS4wClg4RjZ0VzBvdzdOajl2WTVZbmtVSy9xR1dPUHNYUDBFbmE4aUt1WU5OU2FvVEx0TlhxbElEeU1FbWxLbVljV1QvT2J3bGpjK3UyNUl5MWUzelAxZEN3PT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.71.0_aarch64.app.tar.gz"
     }
   }
 }
