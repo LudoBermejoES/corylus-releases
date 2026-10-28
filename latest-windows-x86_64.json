@@ -1,11 +1,11 @@
 {
-  "version": "1.70.5",
-  "notes": "The Story Bible's tag filter no longer takes over the panel. However many tags a project has, the filter keeps to a slice of the height and the tree stays visible underneath. It now shows the tags you use most first, and the rest sit behind a list you can search by typing, so no tag is lost just because it is rare.\n\nAI agents can read every document in the binder again, not only the ones open in a tab. Before, a document you had closed could come back as an error, or — worse — as empty text, when what you wanted was the file. Agents still cannot write underneath an editor.\n\nSearch results now show a document's text exactly as written. Before, text that looked like web code could be run by the search panel instead of shown.",
-  "pub_date": "2026-10-28T14:43:00Z",
+  "version": "1.71.0",
+  "notes": "Story Bible tags can now be nested with a slash, such as faction/cerberos. The full tag list groups them, and choosing a group shows every entry with a tag inside it. While you filter, only the tags that still appear on matching entries are offered.\n\nNew: Manage tags, in the Story Bible's tag filter. Rename a tag in every entry at once, or rename it to an existing tag to merge the two. Corylus says how many entries will change and takes a snapshot of each one first.",
+  "pub_date": "2026-10-28T15:25:34Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzhlVlpIWXlzaHBYaW9xSkQyOFVFRDhlTlRFSTFaUWk2Z2RSSm5GLy9lZkhraTI0Rm1jaWRvQmZIai9YMTFON2ZBa3NDc1IxT3hQeElQblFXNW9EYmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTk4NTYwCWZpbGU6Q29yeWx1c18xLjcwLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNzAuNQp6VTM2Sy9pSVp3TisvTnl1cjhyb2F3QkgvUmlVcXMrUzhwTXp1djB1UmVuTkpoejhyOWdLUlZJY2hiWnZybGU0V2RmRGtqRXhUSVdEQ3krbWw4MjdCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.70.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mbzh6YTBwWEZkQ24zVVRyYVVBSE1kMno0dWwrejdyWjZON1FCYW5hb2N1cGlLc3laOEN5cjQwTzBsTFJSZE1KOUdkaHlQMWRlbXVwMUQzY1k0SHFJbFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjAxMTEwCWZpbGU6Q29yeWx1c18xLjcxLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNzEuMApjVVNtUXpoZitobmpVVHBpVGZlZGNoUUE0S0xZOU1mZGlPNW5OT0xjRERPTHJBTUxLVHo1amtvbW1KN3RveFFSOGRrdWJQSkkrY29aNjZyQSt0RkZDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.71.0_x64-setup.exe"
     }
   }
 }
