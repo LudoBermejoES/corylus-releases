@@ -1,11 +1,11 @@
 {
-  "version": "1.71.0",
-  "notes": "Story Bible tags can now be nested with a slash, such as faction/cerberos. The full tag list groups them, and choosing a group shows every entry with a tag inside it. While you filter, only the tags that still appear on matching entries are offered.\n\nNew: Manage tags, in the Story Bible's tag filter. Rename a tag in every entry at once, or rename it to an existing tag to merge the two. Corylus says how many entries will change and takes a snapshot of each one first.",
-  "pub_date": "2026-10-28T15:25:34Z",
+  "version": "1.71.1",
+  "notes": "Relationship maps draw their lines again on a computer that received the project by sync. Relationships are now read from the entries themselves, so they show up on every machine, including relationships that arrive while the project is open.",
+  "pub_date": "2026-10-28T21:38:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mbzh6YTBwWEZkQ24zVVRyYVVBSE1kMno0dWwrejdyWjZON1FCYW5hb2N1cGlLc3laOEN5cjQwTzBsTFJSZE1KOUdkaHlQMWRlbXVwMUQzY1k0SHFJbFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjAxMTEwCWZpbGU6Q29yeWx1c18xLjcxLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNzEuMApjVVNtUXpoZitobmpVVHBpVGZlZGNoUUE0S0xZOU1mZGlPNW5OT0xjRERPTHJBTUxLVHo1amtvbW1KN3RveFFSOGRrdWJQSkkrY29aNjZyQSt0RkZDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.71.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzYxYnBTWUxQb3VGbm40ZzBaUHpsUUVsYU9VWmFucUlrMXlqbW5YamVJQmNqbjlKTmV5NU5KYnBsNzN5L3I0SjlFNlMvUFFsbnZmUDdUVDFLdVdxUEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjIzNDg3CWZpbGU6Q29yeWx1c18xLjcxLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuNzEuMQpZaTNyTlA1c1dLSitwZ0J1RTRJYjZLMTNWRTRMei8xc1MyTnZobUd1TlorTkVGcTFJNDVzYmJ2cUJQQU94NFFaTG5VUjNJL0IwNHBaUGgxY1RvaW1EZz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.71.1_x64-setup.exe"
     }
   }
 }
