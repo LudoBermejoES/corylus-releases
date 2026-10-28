@@ -1,11 +1,11 @@
 {
-  "version": "1.68.0",
+  "version": "1.68.42",
   "notes": "Changing a Story Bible entry's type now converts it: the name, image, tags, relationships, body and any field both types share are kept, and the old type's other fields are removed. If fields with content would be lost, Corylus names them and asks before changing anything.\n\nEntries with relationships no longer show the relationship's kind (such as Friendship or Alliance) as their type in the Story Bible tree, and a type change now shows up straight away.\n\nAn entry dragged from the Story Bible tree onto a canvas now lands where you drop it. Before, it could land far off-screen, so the drop looked like it had not worked.\n\nStory Bible sheets now show their image in a panel to the left of the fields, whole and at its own shape (portrait, square or wide), instead of a thin cropped strip across the top. On wide screens the fields stay in at most three tidy columns, and grouped fields such as Want vs. Need sit on their own row.",
-  "pub_date": "2026-10-27T09:03:11Z",
+  "pub_date": "2026-10-28T06:14:43Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzE0bGF3UC83NEFSTHZGU1U0YW1JRGd5TmdsckFqclgzNWxqbEVLbEpKaTZ0ZTh2MExzRy9ZdWJacloxM0xYZkdIYXVIcTZYek84QzEzL1ZYd0cvdmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDkxNzc3CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS42OC4wCi92Nnk0T2duSkJTZmorTmVJTUVFdVRPYUU0MkRsdVVqUGVoN3Z0RStYbWZCNklwNVU4MEtabzlYTHFJM1YwbFRQSkw5UUR5YmdwTlgreWVoRXhrRUF3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.68.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3llaGUzQy8yeXhZT2tIZjlkRSttMEFBRGZyWGhveEtrLys0ZStmeVAwUXlzTldnZW1yKzVNZ1FLSmRBM2owTXNhRFhISHl3T0J2QUdEbWhvRWpVRXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTY4MDY2CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS42OC40Mgp2Z1lRN3BGckRydmJKSWZ1WDg3dmxrWEs5dkZFZEJtQllNQWNieDlYOHdTd2ZlVVNtMXhqWHdsTXZvNXlqemR4T28weks0MmMzSG1CUWNOOGxxSEJEZz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.68.42_aarch64.app.tar.gz"
     }
   }
 }
