@@ -1,11 +1,11 @@
 {
-  "version": "1.86.1",
-  "notes": "On a phone the writing gets the screen. The formatting controls ride above the keyboard instead of holding a row of their own, the font and the word counts moved to the Inspector, and the toolbar no longer slides under the status bar when the keyboard opens.\n\nSettings on a phone shows one thing at a time: the list of sections, then the one you chose, with a way back. The first-run dialog puts its buttons where a thumb reaches, and the home screen leads with its actions instead of the epigraph.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-10-31T12:09:30Z",
+  "version": "1.90.0",
+  "notes": "Corylus can read your document aloud, sentence by sentence, with the voices your system already has. It follows along with a highlight and starts from the cursor or from what you selected.\n\nIf the system voices are not good enough, Settings > Language & AI packs now offers Natural voices: a download that reads Spanish and English far more naturally, runs on your own machine with nothing sent anywhere, and reads faster than you can listen. It shows the size and the licence before it downloads anything. You can also choose which voice reads each language, set the speed, and turn the sentence highlight off, under Writing and focus.\n\nOn a phone: the text size and the font are in the Inspector under Text, dark themes are now dark all the way to the edges, and the command palette button is back on screen after the top bar had grown wider than the screen.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-11-01T12:43:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3lUeHhCcHJvOXRwNExVK1FNZVlRR05xUExaa05hTlJRUG04d2lqRUxQOWowdlpKbXBFOGJaQnNLUEJhZU9Jcm5GaythNXVTc1RvelBqcVpMVmpobkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ4NTU1CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS44Ni4xCjZNSXp4ektVYlJRYW1QVTcweGw4YXVnZDlqOENzS2NHYXNhNDdTdThER3BNYWY5cnpVZ3U3M3RTTC94WEFlS1IzYjFiR3RwWW9ZSlljZjdDVUZub0JRPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.86.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzBFYWs2OGhtV0V3ZDNsb2hNaWhZaEJISVNxOGtGeUtITm8rVlBtYlhPMWtiRnNraENZaWdtbXdYVGIzQjRMZlNBQXphOExMazZSdkdjOFNnYkFwbGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTM2NjY2CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45MC4wCldwV2ozMGUzQWROS1pUZzNFZ05ybEdlTXJaRDFDMVRwTk9rNHB6eHllaW53Um5pUVlaamFEbk5UV2VCYURoTmxta0JmNG5nRkZOTDlLSE14azJ4ZkFnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.90.0_aarch64.app.tar.gz"
     }
   }
 }
