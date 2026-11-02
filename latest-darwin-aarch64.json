@@ -1,11 +1,11 @@
 {
-  "version": "1.90.1",
-  "notes": "The natural voices can be heard. Once installed they synthesised each sentence and then played it into an audio channel the system had never started, so the reading went silent on the very first sentence and stayed there. The channel is now started before anything is played.\n\nInstalling or removing the natural voices no longer empties the voice list. The picker used to vanish from the player, and a reading paused at the time carried on in a system voice instead of the one you had chosen.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-11-02T07:53:09Z",
+  "version": "1.91.0",
+  "notes": "Corylus has a logo of its own: a hazel leaf whose veins are lines of text. Corylus is the botanical name of the hazel — the old European tree of writing and wisdom, which regrows from the stump instead of dying — so the name already said what the app is for. The green that comes with it replaces the stock blue the interface had been borrowing. The bearded fellow has not been retired; he is the mascot, and that was always his real job.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-11-02T08:37:56Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3dyVTQzUjlIWm5RSThOSG1HMDFGOVZNUDNrSkpadURtY1NWYUNxQ3RuNUREa2Q5bjJtWG9PUHNEQjlRbndwNno5SDRxdGlTaVhTRzVNaERKNzZOZEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjA1OTU1CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45MC4xCnZPSXhWcHRWcTNHR3kvOGlzM2d6dDB1V2p1UlhwNlFDcjEyaVcrNjYzK093ckNmdjlKS2lNQUtDWnZ6VzJINmt4eDNxT0ZKekpHaXZaMDlkOCtqRUNnPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.90.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzAvVUlnd1hSVGxYeldlQ1NSNXlHT3RTeUUxUTRtRXgzOXp1RzhZMm1SK2J0bXJIK0t5UDBEOFdvbU1ieVFVeW9kYXRhUEJEcklZSnFkeE1OWk8yeXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjA4NjQzCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45MS4wCkhVVE82eHFNSzVidm5kSTJmelVKVE5OQTErT2N1Yk1rMTFUSWhyTHMwL0kzYkdiSlBPdmZJaThCQ1FEaVNtQUlKQXBVUllnZTBvMWhGRU5LSkprUUFRPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.0_aarch64.app.tar.gz"
     }
   }
 }
