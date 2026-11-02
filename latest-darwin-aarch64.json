@@ -1,11 +1,11 @@
 {
-  "version": "1.91.2",
-  "notes": "Labels and statuses now come back in projects you already had open. The previous release taught Corylus to read them from each document's front matter, but it only ever reached documents indexed after the update, so an existing project still showed a dash on every chapter. Opening a project now refreshes its index once, and the labels and statuses that were in the files all along appear.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-11-02T13:53:50Z",
+  "version": "1.91.4",
+  "notes": "Opening a Story Bible entry no longer marks it as unsaved. The pane said it had unsaved changes before you had typed a word, and three seconds later the entry saved itself - a write to your file that you never asked for, with nothing in it that had changed. Loading an entry now counts as reading it, not editing it.\n\nLabels and statuses now come back in projects you already had open. The previous release taught Corylus to read them from each document's front matter, but it only ever reached documents indexed after the update, so an existing project still showed a dash on every chapter. Opening a project now refreshes its index once, and the labels and statuses that were in the files all along appear.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-11-02T15:00:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbytiM3BWblZ3OGpjMVl1aHgrd3JNbTRnN0VsbUVySjJ0VjBDWTUyWVpKMzBTbk9FSVgxYUFYRUF0bk5GRGhSZ1M5ZlJMcGdkUUJDUGRWNjE2cFRzVVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI3NTk4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45MS4yClBlUHk4Ty9uSEpEOGNKWktaTW9MczR4U2ZDOG5wajg4UEJMeFIyZnorYnhaZ1lybzlqYjNwVXVLYmdmUnY3RSsyOVcydVZzbWNlSDRHR0JDV3hrREF3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzFSMkV5aHpFOVBNVXQwaHJsV2t1OXhYL3VKQXRjOGRQcitxTGpoNlZkY002SUhvZFhIRW5wRW9RVzI4cy84a1VnNlBIODhiaGxqeWxoU1pWQmVLUHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjMxNDM5CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45MS40CnJNMzAwSFIzSXh1NGxOTGtxTXJGYlgxNVlaZ1BnZ2Z3T1poUDRGa09DRXlPSFdvZlAxamxvWE42eW0veXZiUTd4SzJlUEI2Q0hSWUhjMkIxR2gwRUN3PT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.4_aarch64.app.tar.gz"
     }
   }
 }
