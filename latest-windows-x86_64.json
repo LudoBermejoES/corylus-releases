@@ -1,11 +1,11 @@
 {
-  "version": "1.91.0",
-  "notes": "Corylus has a logo of its own: a hazel leaf whose veins are lines of text. Corylus is the botanical name of the hazel — the old European tree of writing and wisdom, which regrows from the stump instead of dying — so the name already said what the app is for. The green that comes with it replaces the stock blue the interface had been borrowing. The bearded fellow has not been retired; he is the mascot, and that was always his real job.",
-  "pub_date": "2026-11-02T09:02:06Z",
+  "version": "1.91.1",
+  "notes": "Labels and statuses show up again in the corkboard and the outliner. They are written in each document's front matter, but Corylus only ever read them back from its own search index - so a project it had not indexed before showed none of them: one created by hand, one that arrived over sync, or any project at all after the index was rebuilt. The files always said so; the app now reads them.",
+  "pub_date": "2026-11-02T11:08:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzQ3dFBSM1U0OTBuOHI2VENQZ0pLQnFvUWYyYko1N29kUFY5T0JJQWprRzZiLzVjTG5qeWhJTEczejhqMWMxUzBZWnBoVnVrVmljZkg0cGFRSHNtNGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjEwMTE2CWZpbGU6Q29yeWx1c18xLjkxLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuMAovdDJiYjg1dVZLcHdnTUJOd0hGNXVGb2R2RGtnSVk4aHEyQ29Hd3NKU2I0NzJLYTNsT29JTlJHVG12WVAzOGFUM2ZVQnR4NnltZE44a3Z5VHZDcS9DZz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzJFRmRkUnZRcWRIYkxPREZEYXNXY2lUY1NoZm1kQjE3a2pIV1licmNHV3JldzBpRCtGOWZ6YzcxZkM0RityaUwyVHBFZkFRR0UvVGRMS0ViMWRDdmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjE3NjkxCWZpbGU6Q29yeWx1c18xLjkxLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuMQp2RHVJdS9FOGNuN0luM2tZc2w4S3ZLMHV2N2FwcnF1a0lZUFBYZ2xDdnN3NWFtR2VIYk5HWEZFazc2WXFsVWQ0MjAvU25QSThjb1A2bHAyUUFQQnhBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.1_x64-setup.exe"
     }
   }
 }
