@@ -1,11 +1,11 @@
 {
-  "version": "1.91.4",
-  "notes": "Opening a Story Bible entry no longer marks it as unsaved. The pane said it had unsaved changes before you had typed a word, and three seconds later the entry saved itself - a write to your file that you never asked for, with nothing in it that had changed. Loading an entry now counts as reading it, not editing it.\n\nLabels and statuses now come back in projects you already had open. The previous release taught Corylus to read them from each document's front matter, but it only ever reached documents indexed after the update, so an existing project still showed a dash on every chapter. Opening a project now refreshes its index once, and the labels and statuses that were in the files all along appear.",
-  "pub_date": "2026-11-02T14:22:55Z",
+  "version": "1.91.5",
+  "notes": "Moving a card on a relationship map can no longer delete the relationships it was drawn from. Every move redraws the lines, and each redraw asks the entries what they are connected to. When those answers came back out of order, the map could be handed an empty set of lines and take it to mean you had deleted them - and then write that to your files. If a character lost their connections after you rearranged a map, this was why.",
+  "pub_date": "2026-11-02T17:20:39Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzE3OFNrRFFFZ1YvdlZUMmwrL1BPNGVmM0JjVGs3TmtRSGJaV1JOQU9DMnB1YWlLQW1WMjByM0c3djRmK0E5aW9aVW9zR3VQenkvVGhaMHpyck91VWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI5MzYzCWZpbGU6Q29yeWx1c18xLjkxLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuNApuUng2VWZRMEoxWlQwSTMxcEIxNEdQUUhoMU1XNmZKZ05DRGF5dzVFNnNDUWoyTitKUFB4NXc4QW00ZURObUUxWVh2dm1lV3hDNWRrd25FYW1CVHBEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzFQZzVFMS9wSmhRVjRCWFhJQ1lYTUpsVDVVVkRRSHpKWFV2cVRLWGwwdHVoU0hvamdLMjVqSTZFMlR4K3FteTNoSDcyY1VrMVYxeERsa2lCQ1J0bVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQwMDI0CWZpbGU6Q29yeWx1c18xLjkxLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuNQphY21pSGpFYkRBRi80UlppTE1McnBLVU9tVVhxd2lZeEN6TlJzWEkvOGlsdmZFWlBnNEdpWDMzZHNBTDdhdWtHWitqRHJ0Y0N4d01xa01wRW1pbHBCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.5_x64-setup.exe"
     }
   }
 }
