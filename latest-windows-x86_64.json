@@ -1,11 +1,11 @@
 {
-  "version": "1.90.1",
-  "notes": "The natural voices can be heard. Once installed they synthesised the sentence and then played it into an audio channel the system had never started, so the reading could go silent on the first sentence and stay there. The channel is now started before anything is played.\n\nInstalling or removing the natural voices no longer empties the voice list. The picker used to vanish from the player, and a reading paused at the time carried on in a system voice instead of the one you chose.",
-  "pub_date": "2026-11-02T08:10:37Z",
+  "version": "1.91.0",
+  "notes": "Corylus has a logo of its own: a hazel leaf whose veins are lines of text. Corylus is the botanical name of the hazel — the old European tree of writing and wisdom, which regrows from the stump instead of dying — so the name already said what the app is for. The green that comes with it replaces the stock blue the interface had been borrowing. The bearded fellow has not been retired; he is the mascot, and that was always his real job.",
+  "pub_date": "2026-11-02T09:02:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzIyVk9HeXc5WlBNb2o1WWtrSVdQTHFzRm9qRlVCUnEvRE1wc2hZRzhhQ3MxVnJoNndOK0g2YUU5Z0NENmd2d201WDg5RmZWV0FjVHBxZUlHN1pNSFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjA3MDI2CWZpbGU6Q29yeWx1c18xLjkwLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTAuMQppR1BFUUVOUUNNa3duOTM3NW5EZis1QzlhVExRNHEwS2NtZlhjNlFYTE0vRG1rYVVPL3pncG8wWSsra3BlNmtwUmpyWk1UcjNPYlNKQ1E1UENCRDNBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.90.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzQ3dFBSM1U0OTBuOHI2VENQZ0pLQnFvUWYyYko1N29kUFY5T0JJQWprRzZiLzVjTG5qeWhJTEczejhqMWMxUzBZWnBoVnVrVmljZkg0cGFRSHNtNGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjEwMTE2CWZpbGU6Q29yeWx1c18xLjkxLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuMAovdDJiYjg1dVZLcHdnTUJOd0hGNXVGb2R2RGtnSVk4aHEyQ29Hd3NKU2I0NzJLYTNsT29JTlJHVG12WVAzOGFUM2ZVQnR4NnltZE44a3Z5VHZDcS9DZz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.0_x64-setup.exe"
     }
   }
 }
