@@ -1,11 +1,11 @@
 {
-  "version": "1.91.1",
-  "notes": "Labels and statuses show up again in the corkboard and the outliner. They are written in each document's front matter, but Corylus only ever read them back from its own search index - so a project it had not indexed before showed none of them: one created by hand, one that arrived over sync, or any project at all after the index was rebuilt. The files always said so; the app now reads them.",
-  "pub_date": "2026-11-02T11:08:22Z",
+  "version": "1.91.3",
+  "notes": "Labels and statuses now come back in projects you already had open. The previous release taught Corylus to read them from each document's front matter, but it only ever reached documents indexed after the update, so an existing project still showed a dash on every chapter. Opening a project now refreshes its index once, and the labels and statuses that were in the files all along appear.",
+  "pub_date": "2026-11-02T14:12:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzJFRmRkUnZRcWRIYkxPREZEYXNXY2lUY1NoZm1kQjE3a2pIV1licmNHV3JldzBpRCtGOWZ6YzcxZkM0RityaUwyVHBFZkFRR0UvVGRMS0ViMWRDdmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjE3NjkxCWZpbGU6Q29yeWx1c18xLjkxLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuMQp2RHVJdS9FOGNuN0luM2tZc2w4S3ZLMHV2N2FwcnF1a0lZUFBYZ2xDdnN3NWFtR2VIYk5HWEZFazc2WXFsVWQ0MjAvU25QSThjb1A2bHAyUUFQQnhBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzFVZkRRdFgyei83L2szTjAwOVYvWCthZ3V0WnlyeTg0b1BzN1NLc1g3TWRxSWxicUYrS1BKeGg5UHlidzVCWTNHYThueEdwYzBDamw5SEhST3BKSmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI4NzM5CWZpbGU6Q29yeWx1c18xLjkxLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuMwp2LzhYaTU0ck1sV1FTSEpoOFFsS05ma1VMTktIaFdMenU4dk13VnN2UU10czVwaTJpd0Y2aHd2bXFMMUNCTHk0eGV2T0c3eWpjQVdHQVdGaEhINi9DQT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.3_x64-setup.exe"
     }
   }
 }
