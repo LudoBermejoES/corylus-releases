@@ -1,11 +1,11 @@
 {
-  "version": "1.91.5",
-  "notes": "Moving a card on a relationship map can no longer delete the relationships it was drawn from. Every move redraws the lines, and each redraw asks the entries what they are connected to. When those answers came back out of order, the map could be handed an empty set of lines and take it to mean you had deleted them - and then write that to your files. If a character lost their connections after you rearranged a map, this was why.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-11-02T17:07:35Z",
+  "version": "1.91.6",
+  "notes": "Corylus no longer closes itself while ambient sounds are playing. Every sound file is served to the player in pieces, and the player cancels pieces it no longer needs each time you pause a track, change its volume or stop the mix - which is most of what you do in distraction-free mode. macOS raises an objection when the answer to a cancelled piece arrives anyway. That objection was already being caught and ignored, but one build setting turned it into an immediate shutdown instead, with no warning and no chance to save.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-11-13T06:12:50Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzFDcTN6MHQweVIraCtVbkFPdlNyUnord2hmeDNJb2FlOEZFRnFtdDlvbFZFM2FiQi8wVmVyd3pRbUFqZzBmekFiTG12dUw1NEtIMG1kUlEwM2xYRWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjM5MjM2CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45MS41CldWank0MWtibVBZZlBGeDdQVWs4cjlQdDlwUmx1bUdnbTVuWlJ6N0phbitMME51UEtWMXRoMlVrSmVOWThPVzZZWXpJdm9XTnFNOVdyMGc0TEI0RkJ3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.5_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3hZYjZQRlFqMmJvMTRuUmVIbTVHamJwdzN2VXpvQnRkZytJbkdrN0R4L2dLVVV2MDlwWEQ5d29xTFFCTVVTTitwTVgwdy9uOFdXclhkRWhDRUdISFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTUwMTU5CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45MS42CmQ0NnVxVjIyQ2h5T29STzVTekwxVkhFQVZTQmZpMVBXYzhOdDZ2eDZXRUswYWpCa3ArTkY5WWdVajBadTJUc3RnZ2JjY2ZJaGYrdzFqRGNaYzRVYkNBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.6_aarch64.app.tar.gz"
     }
   }
 }
