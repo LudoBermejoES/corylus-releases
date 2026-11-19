@@ -1,11 +1,11 @@
 {
-  "version": "1.91.6",
-  "notes": "Corylus is harder to bring down. An unexpected error in a background task used to close the whole app on the spot; it is now contained, so the rest of Corylus keeps running and your work keeps saving.",
-  "pub_date": "2026-11-19T09:30:43Z",
+  "version": "1.91.7",
+  "notes": "The database engine behind Corylus's search index has been updated. The older one could hand back stray fragments of the program's own memory while reading an index file that had been tampered with - which only mattered if your project folder sat somewhere another person could write to, such as a shared cloud folder. Your writing was never reachable that way, but the hole is closed now.\n\nThe compression code, the window framework and the editor underneath Corylus have all moved up to their latest versions, picking up their own fixes along the way. Nothing you see or do has changed.",
+  "pub_date": "2026-11-19T14:23:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzhxTGNRZGdaWkR5b3dScjhXckpON0pQSjBJQTJRNnNFdDYxU29aZTFCWERhRDFIWXRUSUxCd0JPQUNKVW9RcTBqSWFqWFFDazNSVkV1bm12OCtjMmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDgwNjIxCWZpbGU6Q29yeWx1c18xLjkxLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuNgpLaHFPOTk2R2Y5UkRrR2JFSVIvalovZzJqTmUwY0J4YnB5eUtwL2c1eFRmbG5aaHF2b3lMQ3BrQThxY2ZRMW9mMEVwQVFkNFJkRm1BalFaTXA3UGdDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzB3ZXVFUUxiajl0ZDdKZWpmMXdXVmtwNjRvZm55bFUxWjcyZlZERVgxOUNGcnZPQmE0Z1ZHbFZOdVc1eWJFTVRKWHRVUkc3b3Nra0kzc3BaOWdwd1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk4MjA3CWZpbGU6Q29yeWx1c18xLjkxLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuNwp4OUFGSytCZGFWdWh1bm5Sb3V5MDl1aUVYQU0xQURDWUV4WFYwdnBINFdZUWtTUVEyNjNrTmtpUU11ZC9TclJTcjRMVjNrbmpLZE5oTHVYcTREYktEQT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.7_x64-setup.exe"
     }
   }
 }
