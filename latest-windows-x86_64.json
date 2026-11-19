@@ -1,11 +1,11 @@
 {
-  "version": "1.91.5",
-  "notes": "Moving a card on a relationship map can no longer delete the relationships it was drawn from. Every move redraws the lines, and each redraw asks the entries what they are connected to. When those answers came back out of order, the map could be handed an empty set of lines and take it to mean you had deleted them - and then write that to your files. If a character lost their connections after you rearranged a map, this was why.",
-  "pub_date": "2026-11-02T17:20:39Z",
+  "version": "1.91.6",
+  "notes": "Corylus is harder to bring down. An unexpected error in a background task used to close the whole app on the spot; it is now contained, so the rest of Corylus keeps running and your work keeps saving.",
+  "pub_date": "2026-11-19T09:30:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzFQZzVFMS9wSmhRVjRCWFhJQ1lYTUpsVDVVVkRRSHpKWFV2cVRLWGwwdHVoU0hvamdLMjVqSTZFMlR4K3FteTNoSDcyY1VrMVYxeERsa2lCQ1J0bVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQwMDI0CWZpbGU6Q29yeWx1c18xLjkxLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuNQphY21pSGpFYkRBRi80UlppTE1McnBLVU9tVVhxd2lZeEN6TlJzWEkvOGlsdmZFWlBnNEdpWDMzZHNBTDdhdWtHWitqRHJ0Y0N4d01xa01wRW1pbHBCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzhxTGNRZGdaWkR5b3dScjhXckpON0pQSjBJQTJRNnNFdDYxU29aZTFCWERhRDFIWXRUSUxCd0JPQUNKVW9RcTBqSWFqWFFDazNSVkV1bm12OCtjMmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDgwNjIxCWZpbGU6Q29yeWx1c18xLjkxLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuNgpLaHFPOTk2R2Y5UkRrR2JFSVIvalovZzJqTmUwY0J4YnB5eUtwL2c1eFRmbG5aaHF2b3lMQ3BrQThxY2ZRMW9mMEVwQVFkNFJkRm1BalFaTXA3UGdDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.6_x64-setup.exe"
     }
   }
 }
