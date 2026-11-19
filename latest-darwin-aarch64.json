@@ -1,11 +1,11 @@
 {
-  "version": "1.91.6",
-  "notes": "Corylus no longer closes itself while ambient sounds are playing. Every sound file is served to the player in pieces, and the player cancels pieces it no longer needs each time you pause a track, change its volume or stop the mix - which is most of what you do in distraction-free mode. macOS raises an objection when the answer to a cancelled piece arrives anyway. That objection was already being caught and ignored, but one build setting turned it into an immediate shutdown instead, with no warning and no chance to save.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-11-13T06:12:50Z",
+  "version": "1.91.7",
+  "notes": "The database engine behind Corylus's search index has been updated. The older one could hand back stray fragments of the program's own memory while reading an index file that had been tampered with - which only mattered if your project folder sat somewhere another person could write to, such as a shared cloud folder. Your writing was never reachable that way, but the hole is closed now.\n\nThe compression code, the window framework and the editor underneath Corylus have all moved up to their latest versions, picking up their own fixes along the way. Nothing you see or do has changed.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-11-19T13:58:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3hZYjZQRlFqMmJvMTRuUmVIbTVHamJwdzN2VXpvQnRkZytJbkdrN0R4L2dLVVV2MDlwWEQ5d29xTFFCTVVTTitwTVgwdy9uOFdXclhkRWhDRUdISFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTUwMTU5CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45MS42CmQ0NnVxVjIyQ2h5T29STzVTekwxVkhFQVZTQmZpMVBXYzhOdDZ2eDZXRUswYWpCa3ArTkY5WWdVajBadTJUc3RnZ2JjY2ZJaGYrdzFqRGNaYzRVYkNBPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.6_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzdrazBQaXkxcUdURkZFN3hDR2lsc3J0THdQVUxJcTkreUdnMTYwa1ozMWQ0dStpMHdsM1RMdE5CWG5kcUo3czlnL3FuL1cxdUh3ZXdXOCt5VWo4Mnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk2NzAzCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45MS43CkVjdEg1ZUpZSm1uZ3Z5YXZGQ0lWRmNRcWFiMjlkalVDSmhYRUg5aHhiODBLdDdGK0Q4TTEzWnB6TVFTNWczbHlFSlR6dmFYUjBTSCtXbE5JNWNyVEJ3PT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.7_aarch64.app.tar.gz"
     }
   }
 }
