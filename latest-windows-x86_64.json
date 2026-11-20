@@ -1,11 +1,11 @@
 {
-  "version": "1.91.7",
-  "notes": "The database engine behind Corylus's search index has been updated. The older one could hand back stray fragments of the program's own memory while reading an index file that had been tampered with - which only mattered if your project folder sat somewhere another person could write to, such as a shared cloud folder. Your writing was never reachable that way, but the hole is closed now.\n\nThe compression code, the window framework and the editor underneath Corylus have all moved up to their latest versions, picking up their own fixes along the way. Nothing you see or do has changed.",
-  "pub_date": "2026-11-19T14:23:38Z",
+  "version": "1.92.0",
+  "notes": "You can now dim the background itself in distraction-free mode. Until now the only slider there fed the page, not the picture behind it - and it was labelled “Background visibility”, which is why you may have dragged it and watched your own page fade instead. There are two sliders now, each named for what it changes: one fades the page over the background, the new one dims the image or video. The background keeps whatever you set when you swap it for another.\n\nThe ambient sound sliders no longer fight back. Dragging one made it jump and flicker, and left your pointer on the pause button, because the play button only appeared once a sound was audible - arriving beside the slider mid-drag and shoving it sideways under your finger. It now holds its place whether the sound is playing or not. Dragging also used to start several copies of the same loop, and all but one of them ignored the slider, the pause button and even stop-all; now a drag starts exactly one.",
+  "pub_date": "2026-11-20T05:42:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzB3ZXVFUUxiajl0ZDdKZWpmMXdXVmtwNjRvZm55bFUxWjcyZlZERVgxOUNGcnZPQmE0Z1ZHbFZOdVc1eWJFTVRKWHRVUkc3b3Nra0kzc3BaOWdwd1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk4MjA3CWZpbGU6Q29yeWx1c18xLjkxLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTEuNwp4OUFGSytCZGFWdWh1bm5Sb3V5MDl1aUVYQU0xQURDWUV4WFYwdnBINFdZUWtTUVEyNjNrTmtpUU11ZC9TclJTcjRMVjNrbmpLZE5oTHVYcTREYktEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.91.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbytWcjRNUE8wWUpNV2VwN3hlSC9RTzRYNUI1dVI5aWNnVVUvbktVdjVMd2F5blNGbzFBNjdNK21QaTl6aWdoMmgrQVZ3aTBQcmcrVGltREVOY0lNZVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTUzMzQwCWZpbGU6Q29yeWx1c18xLjkyLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTIuMApCeUFUVmYvdW9QMzAzZlR1c3lMSm4wZWJJd2NzVEpHRFhxUFZnOW5DdzAyZHp0SGZLSmNVNys5QU5veGZKaUluQjFjSTkyTXd4OG53YkJRS0dmakhDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.92.0_x64-setup.exe"
     }
   }
 }
