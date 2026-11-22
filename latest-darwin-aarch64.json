@@ -1,11 +1,11 @@
 {
-  "version": "1.95.0",
-  "notes": "Backgrounds from the gallery can go straight into Corylus. Open a background on the gallery page, choose «Add to Corylus», and Corylus shows you the preview, its size, credit and licence, and asks before it downloads anything.\n\nSettings → Writing & Focus lists your downloaded backgrounds under «My backgrounds», with their total size. Use any of them again or remove the ones you no longer want.\n\nSaving a custom background now writes the file safely in one step, like every other file Corylus writes.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-11-22T09:04:04Z",
+  "version": "1.95.1",
+  "notes": "When a video background stops playing on its own, Corylus now records whether it managed to start it again. If it happens to you, the log says what went wrong instead of staying silent.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-11-22T10:27:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzlBVzRNK0FLYUFnQlRqVURDc0dYNGtmdFBvd21xNVYrK01mSm52YUhxaWFFdVgvV2NUY3lyTHpyazlOcUs5UnVxeXNmSXN0S29aOUhPUFhSRTNCN2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzM4MTc2CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45NS4wCkhXZGl2MWErdWRTZ20vY09XSnc5eUttKzVZY21HdzVhNnBuUlFJUUZzOFE3UVV1NWJHUEhNWWVySDZXbVNRVGQzZWNYQVh3Z0lCaVJ3eXFGSHVUT0FRPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.95.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3dlQkgybTJGN0VSSWlKKzJpM0E1TjhxOU9MbjAyRmIyL0NDVGQzNklsYWtPd3l4djFzVDhvS1NDNDBJY3lFcURJckVFZE55K2NoUVVoWGdlM3M5clFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzQzMTc2CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45NS4xCmNDOTQ4aVI5R2swUTFISGNxT2NpelVEaFpUY2pNUXhiQ0N3RzMySkRBOTZjT2RGVGlVeU42UDVIR3oycStLWlIwWU1xejIwS0ZrME92RitHd2hXVkFRPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.95.1_aarch64.app.tar.gz"
     }
   }
 }
