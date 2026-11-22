@@ -1,11 +1,11 @@
 {
-  "version": "1.93.8",
-  "notes": "The right-click menu now offers each kind of word: for \"light\" it shows glow and radiation, then ignite and kindle, then bright and luminous, instead of ten nouns.\n\nThe English thesaurus no longer lists types of radiation as opposites of \"light\", and \"heavy\" now sits under the weight meaning, not the brightness one. Corylus downloads the corrected data once.",
-  "pub_date": "2026-11-22T01:24:21Z",
+  "version": "1.93.10",
+  "notes": "The Spanish dictionary also knows the pronoun forms of common verbs: «ocultarle», «negarle», «deberle», «decírmelo» and thousands like them are no longer underlined.\n\nThe compile dialog is now fully in Spanish in the Spanish interface: section types, the layout preview and its sample text, the token buttons, and the suggested file name («manuscrito»).\n\nTurning grammar checking on now underlines the open document straight away, and turning it off clears the underlines. Before, nothing changed until you reopened the document. Grammar also checks the page as soon as LanguageTool finishes starting.\n\nThe Spanish spelling dictionary is updated to RLA-ES 2.9, so words like «murete», «ocultamiento» and «rascarlo» are no longer underlined. Settings now gives its licence correctly.\n\nIn the Spanish interface the compile layouts of the built-in formats are called «Escena» and «Capítulo» instead of Scene and Chapter. Names you gave your own layouts stay as you wrote them.",
+  "pub_date": "2026-11-22T04:48:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzdaZ2NMYzBER2dDZWNybTRralVpUXpYQnU4ZU43TkkwN0tHZ0Z4SVJwTDZEZ2xXNWwvT1hlQUorMFJKY2VvODZ5QWFRSGJGYklkY3dKenBaY3M4MGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzEwNjQ4CWZpbGU6Q29yeWx1c18xLjkzLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTMuOAp4SFA0czMveTRuYlZ6MFZWM1RlTDR4dTM1VTFLbnRXM2loSnNVbXpsb0t2TEdKZ1F4bDZHcEdrV1V0NzhKZkZnYk1rczEyVlZlMWdsTXBXeTZvVFhEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.93.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzRuQTRWUDlETlhiL1AzUXp1NnIvOGFFTWlhNEtoUGlQaWszWXZNalJhaStreW8xc2NOOFBKQ05DRUNQVXVOL1pFWk9IcGV4ZUY2Sks2bnMvM0w2RGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzIyODk2CWZpbGU6Q29yeWx1c18xLjkzLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjkzLjEwCkc5VG1tU2Z4K3ljaG5rMlhIYXBnZi9NeHdaTEZmQ2pQTDNFMkpMcG95Y2ZFTDVaUTQ2UTl2bzlFNHJLYUlWYlJFYTZxMGFKcm9wejcxZ2FOUEFRTkJBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.93.10_x64-setup.exe"
     }
   }
 }
