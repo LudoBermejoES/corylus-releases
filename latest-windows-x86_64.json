@@ -1,11 +1,11 @@
 {
-  "version": "1.96.1",
-  "notes": "After a restart, the assistant no longer claims to be ready before its engine is running. It starts the engine on your first question, on your graphics card if you chose one, and if it can't, it says so instead of quietly answering in basic mode.\n\nWhen Claude Code connects, Corylus now shows its name in the list of connected apps and in the confirmation window. It used to say «MCP client». Corylus offers the updated connection module the next time you open Settings → AI.\n\nThe mascot's comment bubble appears again.",
-  "pub_date": "2026-11-22T15:50:37Z",
+  "version": "1.96.2",
+  "notes": "The window where an AI app asks before changing your project now describes the change in your language.",
+  "pub_date": "2026-11-22T17:11:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3dxSTZqc1JxNnRuQ0NjTGhDWW9aZ0phaHJJQSswamVQSWI5UnNtL2NLREdsM2RTdUNHaUNrNmJmZCtmZlVRU1I2VkY5V3JEZlNSUnZsTVZxanZXcUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzYyNjEzCWZpbGU6Q29yeWx1c18xLjk2LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTYuMQp2U0hJUGNHOVBkTjJrRXY5UjJseEZTcDNJaUJONjgrTkdQVm4vY2szMmdzZEFFSEwvaG4yQ25vYis0VS9oNkRGUXdRclM1SkRESSsxcUo0Wm82VmxDQT09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.96.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzgyRFFjRGhadzJxWkE5d29KclhsUXkySWkxZkxodkdtZTNTQU9qa0hsU2xyeDFLUmdhczdGT3Q4eVpvZXIwRXEvd3daVS9KcEJndm9pVE00NWZVU1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzY3NTA0CWZpbGU6Q29yeWx1c18xLjk2LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTYuMgpqOUpYVHZINEFKeTdFdU5VbW0vWjYrOXpTaVd5TXJRWDY0T3l5N0N3YzQ0M1hYVkVtVU81eDNIaDhJeDRvUnpXbzRRK051eGhxZnQ4cjM4YVBIYkpBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.96.2_x64-setup.exe"
     }
   }
 }
