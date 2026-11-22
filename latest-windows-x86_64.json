@@ -1,11 +1,11 @@
 {
-  "version": "1.93.7",
-  "notes": "The English thesaurus is much richer. It is now built on Open English WordNet as well as Wiktionary, so common words like light, house or walk get real synonyms, grouped by meaning. Corylus downloads the new data once, the next time you use the thesaurus.\n\nThe right-click menu shows the ten most useful synonyms, a few from each meaning. Define still shows every one of them.\n\nSettings → Language & AI packs now credits Open English WordNet and Moby Thesaurus II beside Wiktionary.",
-  "pub_date": "2026-11-22T00:25:48Z",
+  "version": "1.93.8",
+  "notes": "The right-click menu now offers each kind of word: for \"light\" it shows glow and radiation, then ignite and kindle, then bright and luminous, instead of ten nouns.\n\nThe English thesaurus no longer lists types of radiation as opposites of \"light\", and \"heavy\" now sits under the weight meaning, not the brightness one. Corylus downloads the corrected data once.",
+  "pub_date": "2026-11-22T01:24:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzlhcjdIckoyanAyWDdJQmI5WmN5U29MTDdpdHljTm01dnl1WjhiWXVvNDV2QTFwTThndHd6bWZ4dVp4eFAvYU1pWWRLT3A0T1pEWDhhQjZ5cUs1TkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzA3MTE4CWZpbGU6Q29yeWx1c18xLjkzLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTMuNwpYVGlhL0lUZHRzcnQ0OXVPREJUcitQQ2YwUkEyeENxbGZlc1d6V2Fvai9QbFRjeTdvQmhaVlE4ekdqODZ4YUVFcFhobHUrb0k5OEVJclJ0N0JaQUlCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.93.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzdaZ2NMYzBER2dDZWNybTRralVpUXpYQnU4ZU43TkkwN0tHZ0Z4SVJwTDZEZ2xXNWwvT1hlQUorMFJKY2VvODZ5QWFRSGJGYklkY3dKenBaY3M4MGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzEwNjQ4CWZpbGU6Q29yeWx1c18xLjkzLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTMuOAp4SFA0czMveTRuYlZ6MFZWM1RlTDR4dTM1VTFLbnRXM2loSnNVbXpsb0t2TEdKZ1F4bDZHcEdrV1V0NzhKZkZnYk1rczEyVlZlMWdsTXBXeTZvVFhEQT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.93.8_x64-setup.exe"
     }
   }
 }
