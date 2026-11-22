@@ -1,11 +1,11 @@
 {
-  "version": "1.94.0",
-  "notes": "Settings are reorganised. Each setting has one home: Typography now sits with the rest of the project's settings, read-aloud voices and ambient sounds share «Voices & audio», the assistant, its models and agent access are together under «AI», and the distraction-free background sits next to distraction-free mode.\n\nSearch in Settings finds individual settings, not just pages. Type «spacing», «dark» or «voice» and pick a result to jump straight to that control.\n\nSettings work from the keyboard: Tab through the pages, Esc to close, and focus stays inside the window while it is open. Every theme now shows the selected page clearly.\n\nOn/off settings use the same switch everywhere, the window is larger, and the Spanish page names are shorter so they fit on one line.",
-  "pub_date": "2026-11-22T07:48:19Z",
+  "version": "1.95.0",
+  "notes": "Backgrounds from the gallery can go straight into Corylus. Open a background on the gallery page, choose «Add to Corylus», and Corylus shows you the preview, its size, credit and licence, and asks before it downloads anything.\n\nSettings → Writing & Focus lists your downloaded backgrounds under «My backgrounds», with their total size. Use any of them again or remove the ones you no longer want.\n\nSaving a custom background now writes the file safely in one step, like every other file Corylus writes.",
+  "pub_date": "2026-11-22T08:37:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzBwRUtlTmN3S1hxZ2NNM0RFNmRnS1ZqajQrQlpwbkJBbCsxLzZ0YmdFSWYyNU5Ma3VWMW9keDVzUHlZZGh5a1M0L2ZYNXpIcjhaUUlDeE1hZGs4MlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzMzNjg0CWZpbGU6Q29yeWx1c18xLjk0LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTQuMApybkFzWStscTNaV0JRQUNUbVQyckpHalBueXNBWkpJN1BicU9hOWROVUlVMlhLMWxWaDcxakFjellzOVQ1SXJ2SkpxdDhEdnFYSUJhSmpYWUdHaThBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.94.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mby9HV1NIcnBuUDhuOXFoZDVya1BIeDlyVDJiQXJNc2Y2TFAzbmxXVHNlRmhlenJCd09PRER4Ti9JQXNQVFJ4ZGxKaklHQjF3UkNocWZsRnlvcWhTanc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzM2NjEwCWZpbGU6Q29yeWx1c18xLjk1LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTUuMApWZ2VadGpqREMxOFFXWjFidGV0VDVTbzZkQTdNWU5zc01PTVJCWUs0Qkd1ZjNvUDJaNmdYdm9Dc2NpcVA5cXJLbmxrSjI4SFlGeTJVNllBaWFEVE1DZz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.95.0_x64-setup.exe"
     }
   }
 }
