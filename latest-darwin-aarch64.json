@@ -1,11 +1,11 @@
 {
-  "version": "1.95.1",
-  "notes": "When a video background stops playing on its own, Corylus now records whether it managed to start it again. If it happens to you, the log says what went wrong instead of staying silent.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-11-22T10:27:11Z",
+  "version": "1.95.3",
+  "notes": "The assistant's answers show bold, lists, headings and links properly instead of raw asterisks, in the panel and in the mascot's chat.\n\nOn Windows and Linux, Corylus now reads how much memory your computer has, so it suggests a model that fits instead of always picking the smallest.\n\nWhen an AI app disconnects, it leaves the list of connected apps straight away.\n\nThe mascot speaks the language of the interface, and its buttons are translated.\n\nSnapshots made before an AI app's edit are labelled in your language, and the wording about what stays on your computer is more precise.\n\nA video background that freezes now starts itself again. Corylus checks that the picture is still moving and restarts it when it is not, so you no longer have to leave distraction-free mode and come back to get it going.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-11-22T11:58:49Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3dlQkgybTJGN0VSSWlKKzJpM0E1TjhxOU9MbjAyRmIyL0NDVGQzNklsYWtPd3l4djFzVDhvS1NDNDBJY3lFcURJckVFZE55K2NoUVVoWGdlM3M5clFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzQzMTc2CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45NS4xCmNDOTQ4aVI5R2swUTFISGNxT2NpelVEaFpUY2pNUXhiQ0N3RzMySkRBOTZjT2RGVGlVeU42UDVIR3oycStLWlIwWU1xejIwS0ZrME92RitHd2hXVkFRPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.95.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mbyt0bjdwd2pUQjNvYWlzY09NNWRjbG9xc0JpYWJ4bm8rbVlubXUrT3ZTdUtJVk04TDUzazFYakxESDdkU0x6QUZtRmlLRERYQ3MrRDJacnlTdWxSM1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzQ4Njg3CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45NS4zCnNjSm9HNGdxT1Q5a0JZZnRGRFg4dlF5dFpxT293UjV4eFY4ZDdicHRWWHVjQWlKbExNODRBL0QvMitqNVNlajQzTTZpbFBYT3IwVWJwdmFKeWs5aENBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.95.3_aarch64.app.tar.gz"
     }
   }
 }
