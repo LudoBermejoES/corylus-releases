@@ -1,11 +1,11 @@
 {
-  "version": "1.93.6",
-  "notes": "The Spanish style checks work as they should. Words at the start of a sentence were read as nouns, so the check for three sentences in a row starting with «ella» and the adjective-position check never marked anything, and adverbs were counted as zero in the statistics.\n\nThe spellchecker no longer underlines the names of your characters and places: any word in a Story Bible entry's title counts as spelled right, in English and Spanish.\n\nA relationship drawn on the map shows straight away on an entry you had already open, and adding one no longer copies the other entry's links into this one's file.\n\nClicking a comment's quote takes you to the words it is about and selects them.\n\nMore of the Spanish interface is in Spanish: snapshot dates, the built-in compile formats, the Story Bible folder, and headings now in sentence case.\n\nAlso: the editor follows each document's language when you switch tabs, the thesaurus no longer mixes a word with a name spelled the same, and new Story Bible files get plain lowercase names.",
-  "pub_date": "2026-11-21T15:01:20Z",
+  "version": "1.93.7",
+  "notes": "The English thesaurus is much richer. It is now built on Open English WordNet as well as Wiktionary, so common words like light, house or walk get real synonyms, grouped by meaning. Corylus downloads the new data once, the next time you use the thesaurus.\n\nThe right-click menu shows the ten most useful synonyms, a few from each meaning. Define still shows every one of them.\n\nSettings → Language & AI packs now credits Open English WordNet and Moby Thesaurus II beside Wiktionary.",
+  "pub_date": "2026-11-22T00:25:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzBJZnNwSTZJNXQvREhUQ25GYkhMdlJDM2pISDBZb3BHYkp4UXU3RHUyUE9mR240d0k4OHlOQkEzN2FkRUpTWFFEYUdoNW1zWURrZmo0bDZMeUZzNlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjczMjYwCWZpbGU6Q29yeWx1c18xLjkzLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTMuNgpPVU5PemZhWlMzVC9TVjVSc3E0TlBLZ2Y1MkNoZWFGcFNpNWx0Q2NFUlcvSGdDY2Vxd29kcWkwY0FYZTZYRXV1WkxpNGd6QVJVd2hrSnpoeUl5bTZBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.93.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzlhcjdIckoyanAyWDdJQmI5WmN5U29MTDdpdHljTm01dnl1WjhiWXVvNDV2QTFwTThndHd6bWZ4dVp4eFAvYU1pWWRLT3A0T1pEWDhhQjZ5cUs1TkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzA3MTE4CWZpbGU6Q29yeWx1c18xLjkzLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTMuNwpYVGlhL0lUZHRzcnQ0OXVPREJUcitQQ2YwUkEyeENxbGZlc1d6V2Fvai9QbFRjeTdvQmhaVlE4ekdqODZ4YUVFcFhobHUrb0k5OEVJclJ0N0JaQUlCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.93.7_x64-setup.exe"
     }
   }
 }
