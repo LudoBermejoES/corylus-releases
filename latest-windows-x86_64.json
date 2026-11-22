@@ -1,11 +1,11 @@
 {
-  "version": "1.93.10",
-  "notes": "The Spanish dictionary also knows the pronoun forms of common verbs: «ocultarle», «negarle», «deberle», «decírmelo» and thousands like them are no longer underlined.\n\nThe compile dialog is now fully in Spanish in the Spanish interface: section types, the layout preview and its sample text, the token buttons, and the suggested file name («manuscrito»).\n\nTurning grammar checking on now underlines the open document straight away, and turning it off clears the underlines. Before, nothing changed until you reopened the document. Grammar also checks the page as soon as LanguageTool finishes starting.\n\nThe Spanish spelling dictionary is updated to RLA-ES 2.9, so words like «murete», «ocultamiento» and «rascarlo» are no longer underlined. Settings now gives its licence correctly.\n\nIn the Spanish interface the compile layouts of the built-in formats are called «Escena» and «Capítulo» instead of Scene and Chapter. Names you gave your own layouts stay as you wrote them.",
-  "pub_date": "2026-11-22T04:48:28Z",
+  "version": "1.94.0",
+  "notes": "Settings are reorganised. Each setting has one home: Typography now sits with the rest of the project's settings, read-aloud voices and ambient sounds share «Voices & audio», the assistant, its models and agent access are together under «AI», and the distraction-free background sits next to distraction-free mode.\n\nSearch in Settings finds individual settings, not just pages. Type «spacing», «dark» or «voice» and pick a result to jump straight to that control.\n\nSettings work from the keyboard: Tab through the pages, Esc to close, and focus stays inside the window while it is open. Every theme now shows the selected page clearly.\n\nOn/off settings use the same switch everywhere, the window is larger, and the Spanish page names are shorter so they fit on one line.",
+  "pub_date": "2026-11-22T07:48:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzRuQTRWUDlETlhiL1AzUXp1NnIvOGFFTWlhNEtoUGlQaWszWXZNalJhaStreW8xc2NOOFBKQ05DRUNQVXVOL1pFWk9IcGV4ZUY2Sks2bnMvM0w2RGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzIyODk2CWZpbGU6Q29yeWx1c18xLjkzLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjkzLjEwCkc5VG1tU2Z4K3ljaG5rMlhIYXBnZi9NeHdaTEZmQ2pQTDNFMkpMcG95Y2ZFTDVaUTQ2UTl2bzlFNHJLYUlWYlJFYTZxMGFKcm9wejcxZ2FOUEFRTkJBPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.93.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzBwRUtlTmN3S1hxZ2NNM0RFNmRnS1ZqajQrQlpwbkJBbCsxLzZ0YmdFSWYyNU5Ma3VWMW9keDVzUHlZZGh5a1M0L2ZYNXpIcjhaUUlDeE1hZGs4MlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzMzNjg0CWZpbGU6Q29yeWx1c18xLjk0LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTQuMApybkFzWStscTNaV0JRQUNUbVQyckpHalBueXNBWkpJN1BicU9hOWROVUlVMlhLMWxWaDcxakFjellzOVQ1SXJ2SkpxdDhEdnFYSUJhSmpYWUdHaThBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.94.0_x64-setup.exe"
     }
   }
 }
