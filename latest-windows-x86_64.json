@@ -1,11 +1,11 @@
 {
-  "version": "1.96.0",
-  "notes": "The local assistant can use your graphics card. Corylus checks which card you have and downloads only what it needs: CUDA for NVIDIA, Vulkan for AMD and Intel. Answers that took close to a minute now take a few seconds. Settings → AI shows what it runs on, and you can switch back to the processor.\n\nIf the graphics card can't start, Corylus falls back to the next option on its own and tells you why in Settings.\n\nThe assistant's engine now writes a log, so a problem can be traced instead of disappearing.\n\nThe assistant's answers show bold, lists, headings and links properly instead of raw asterisks, in the panel and in the mascot's chat.\n\nOn Windows and Linux, Corylus now reads how much memory your computer has, so it suggests a model that fits instead of always picking the smallest.\n\nWhen an AI app disconnects, it leaves the list of connected apps straight away.\n\nThe mascot speaks the language of the interface, and its buttons are translated.\n\nSnapshots made before an AI app's edit are labelled in your language, and the wording about what stays on your computer is more precise.",
-  "pub_date": "2026-11-22T13:36:47Z",
+  "version": "1.96.1",
+  "notes": "After a restart, the assistant no longer claims to be ready before its engine is running. It starts the engine on your first question, on your graphics card if you chose one, and if it can't, it says so instead of quietly answering in basic mode.\n\nWhen Claude Code connects, Corylus now shows its name in the list of connected apps and in the confirmation window. It used to say «MCP client». Corylus offers the updated connection module the next time you open Settings → AI.\n\nThe mascot's comment bubble appears again.",
+  "pub_date": "2026-11-22T15:50:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3dkYUFrbG9EY3J6ZzA5b1ZTcTJ3ZmZDTVRQaEdGbFZ2ZktQZ0Z6YmRRUmR5VUlJZ1Y1S2RBZzVNclAwL0hPeHFRc2Q0M3o4bml6a0NkOFlNWC9ubHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzU0NTg1CWZpbGU6Q29yeWx1c18xLjk2LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTYuMApyd3piVVdwSS9DTm5Ia1A0MEMzajdJcnZ6RDlkVDJCQXJVaGRwK1pPM2ZLUjVhMFowaEhEUjZwdERvUStKdm5vWElqclFWMTJ1RnhVV3AzZENqSjZDZz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.96.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3dxSTZqc1JxNnRuQ0NjTGhDWW9aZ0phaHJJQSswamVQSWI5UnNtL2NLREdsM2RTdUNHaUNrNmJmZCtmZlVRU1I2VkY5V3JEZlNSUnZsTVZxanZXcUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzYyNjEzCWZpbGU6Q29yeWx1c18xLjk2LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTYuMQp2U0hJUGNHOVBkTjJrRXY5UjJseEZTcDNJaUJONjgrTkdQVm4vY2szMmdzZEFFSEwvaG4yQ25vYis0VS9oNkRGUXdRclM1SkRESSsxcUo0Wm82VmxDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.96.1_x64-setup.exe"
     }
   }
 }
