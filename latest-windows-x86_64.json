@@ -1,11 +1,11 @@
 {
-  "version": "1.96.2",
-  "notes": "The window where an AI app asks before changing your project now describes the change in your language.",
-  "pub_date": "2026-11-22T17:11:52Z",
+  "version": "1.97.3",
+  "notes": "If something goes wrong, you can now tell us about it without leaving Corylus. Settings → About → «Send diagnostics» asks what happened, in your own words, and sends it with Corylus's logs. No account, nothing to set up, and nothing is ever sent unless you press the button.\n\nThe dialog says plainly what travels: the logs record what Corylus was doing, so some of your own text may be included to make them readable. If you are offline the report is saved to a file instead and shown to you, so nothing is lost.",
+  "pub_date": "2026-11-23T13:21:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzgyRFFjRGhadzJxWkE5d29KclhsUXkySWkxZkxodkdtZTNTQU9qa0hsU2xyeDFLUmdhczdGT3Q4eVpvZXIwRXEvd3daVS9KcEJndm9pVE00NWZVU1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzY3NTA0CWZpbGU6Q29yeWx1c18xLjk2LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTYuMgpqOUpYVHZINEFKeTdFdU5VbW0vWjYrOXpTaVd5TXJRWDY0T3l5N0N3YzQ0M1hYVkVtVU81eDNIaDhJeDRvUnpXbzRRK051eGhxZnQ4cjM4YVBIYkpBdz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.96.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzJrTWZnVzB5VG9EaGg1dHdPemFkWXBaOHE5cGY3K05USURxbUdwTjFybFN2UXFKVE1SNHliNGR0OWVSeVlhY0ZRbndKQzFwVkJqdWpUaDl0bms4V3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDQwMDg3CWZpbGU6Q29yeWx1c18xLjk3LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTcuMwozNy94QVAzd1M5bno2eWVSZlp3VTBnNWtiVWtLMkZmNER6L1Q0bm5OcmZyVVp5MW4wSG9oK0tNMnpYVndWZS90ZXZ5YkZKUEdjU2dVR0RXVDNyM2tCZz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.97.3_x64-setup.exe"
     }
   }
 }
