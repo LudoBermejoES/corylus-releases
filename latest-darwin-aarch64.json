@@ -1,11 +1,11 @@
 {
-  "version": "1.95.4",
-  "notes": "Video backgrounds no longer stop at the end of the clip. The video sometimes parked on its last frame instead of starting over; Corylus now notices and loops it itself, within a second.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-11-22T12:25:43Z",
+  "version": "1.96.2",
+  "notes": "The local assistant can use your graphics card. Corylus checks which card you have and downloads only what it needs: CUDA for NVIDIA, Vulkan for AMD and Intel. Answers that took close to a minute now take a few seconds. Settings → AI shows what it runs on, and you can switch back to the processor.\n\nIf the graphics card can't start, Corylus falls back to the next option on its own and tells you why in Settings.\n\nThe assistant's engine now writes a log, so a problem can be traced instead of disappearing.\n\nAfter a restart, the assistant no longer claims to be ready before its engine is running. It starts the engine on your first question, on your graphics card if you chose one, and if it can't, it says so instead of quietly answering in basic mode.\n\nWhen Claude Code connects, Corylus now shows its name in the list of connected apps and in the confirmation window. It used to say «MCP client». Corylus offers the updated connection module the next time you open Settings → AI.\n\nThe mascot's comment bubble appears again.\n\nThe window where an AI app asks before changing your project now describes the change in your language.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-11-23T03:56:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3pWSjBYSlhsTmM2dEtoQlNieHBuajRYMHNZci9meElXaUVDNm01Yi93bVRiQ1dNeWhnbk80S2gvMTIrRkowUkVoYzNRRk83bEo5TkJmU1pDK2FnbXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzUwMzAxCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45NS40Clh1YTA0OE9iOEhPR3hBaUFRMGtjUjJBamQ3L002UnVRRWE0SWp5bm5jdFQrbndMOExKMGVlWUpaZElqL0p3R082U3BQK0owS1ViemJrd1NxZ1NubUFnPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.95.4_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzdNOWpRUk9FeU5wYXlDTjNNaUhnd0dvMnpRRFBkNnNBNWljRlZkS24ydWxMZS9QcTFnbEVkekloS2RaYVVYdDJNbGdDakR6dHU2WDlHa2pqeG5PTHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDA2MTQ2CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45Ni4yCkZIMFlDYWpnWjJYbkR3Z0ZVYmRySzRoZ3lOUFo1ZFMrbDhmZG9kd1BJZWkwRFkvb3lUQkhwRkFUS0hOMnlrY1BGZlR2elI0UFdXS3JXbjJheVM0VEJnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.96.2_aarch64.app.tar.gz"
     }
   }
 }
