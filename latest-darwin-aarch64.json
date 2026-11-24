@@ -1,11 +1,11 @@
 {
-  "version": "1.97.3",
-  "notes": "If something goes wrong, you can now tell us about it without leaving Corylus. Settings → About → «Send diagnostics» asks what happened, in your own words, and sends it with Corylus's logs. No account, nothing to set up, and nothing is ever sent unless you press the button.\n\nThe dialog says plainly what travels: the logs record what Corylus was doing, so some of your own text may be included to make them readable. If you are offline the report is saved to a file instead and shown to you, so nothing is lost.\n\n«Send diagnostics» opens its window again. In 1.97.0 the window appeared behind the Settings screen, so pressing the button looked like it did nothing at all.\n\nA diagnostics report now says more about the problem and less about nothing. It carries your interface language and your settings, which were missing before, plus how many words, snapshots and backups the project holds. Three details that were always blank have been removed rather than left to look like an answer.\n\nA diagnostics report counts your project properly. The word count, the number of backups and the project's own name were all being looked up in the wrong place, so every report said zero — which reads exactly like an empty project rather than a mistake.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-11-23T11:33:08Z",
+  "version": "1.97.7",
+  "notes": "When you add a background from the gallery while Settings is open, its confirmation window now appears in front of Settings instead of hidden behind it.\n\nThe licence under a gallery background now reads in your language, in the confirmation window and in My backgrounds.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-11-24T10:20:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3hWMldRUUp4c2FTR2ZjNSs2aXIwSkFjKzhGVXE1SGovb29XaUNJR2RxWmtmUzNQUkFYeWEvRW15K2tqMTlDUndXOUJPeDcyd3oxQzJieFAvZmdyWkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDMzNTY5CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45Ny4zCk1qL2Q3ZG1OUTRMSFpFeE1nSUtkUTluWlh1TTZmUHpXMjNhZHdDQ2ViOStvN1Nxa3cyd3pVYzI4dGJSOTY4R1M0aHBNMHZDR3dOOTZHUStucDBEekJ3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.97.3_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzkrUkFvQ283VW9TUWhZY25sRDkrR1Jiak9mQi9JL1RTTmROT3dXTnBqR1JiYVVHZkxaSTU0U2ZVMG1pc2prVTh3Qjd1WjRQZGlFZVI5ZFQ4eVBWMEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE1NjAxCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45Ny43Ckt3Qk13RnBkTUkzeVUxN1RJaDZEdXlNenQ4d0o5V3Q0aVBvSkJqN0JURzRhdXI2U3VjN2xTUUhjYWxkODl1WDJ3aEwxWmxwYm00ZnBtaU1mdUxaR0FBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.97.7_aarch64.app.tar.gz"
     }
   }
 }
