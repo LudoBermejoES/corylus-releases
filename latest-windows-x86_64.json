@@ -1,11 +1,11 @@
 {
-  "version": "1.97.3",
-  "notes": "If something goes wrong, you can now tell us about it without leaving Corylus. Settings → About → «Send diagnostics» asks what happened, in your own words, and sends it with Corylus's logs. No account, nothing to set up, and nothing is ever sent unless you press the button.\n\nThe dialog says plainly what travels: the logs record what Corylus was doing, so some of your own text may be included to make them readable. If you are offline the report is saved to a file instead and shown to you, so nothing is lost.",
-  "pub_date": "2026-11-23T13:21:40Z",
+  "version": "1.97.5",
+  "notes": "When you add a background from the gallery while Settings is open, its confirmation window now appears in front of Settings instead of hidden behind it.",
+  "pub_date": "2026-11-24T06:16:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzJrTWZnVzB5VG9EaGg1dHdPemFkWXBaOHE5cGY3K05USURxbUdwTjFybFN2UXFKVE1SNHliNGR0OWVSeVlhY0ZRbndKQzFwVkJqdWpUaDl0bms4V3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDQwMDg3CWZpbGU6Q29yeWx1c18xLjk3LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTcuMwozNy94QVAzd1M5bno2eWVSZlp3VTBnNWtiVWtLMkZmNER6L1Q0bm5OcmZyVVp5MW4wSG9oK0tNMnpYVndWZS90ZXZ5YkZKUEdjU2dVR0RXVDNyM2tCZz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.97.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3pqd0FCNFFvUitCMGxNQ0xtVnFrUzVoNmxvWFIxNVZyZURUOWsrSFp1UCtEdmxRTDJ6YW55V3JLNjAvalM2dnU2MW1oRGVPU0VJSVdMM1h1Ynp3cmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTAwOTkwCWZpbGU6Q29yeWx1c18xLjk3LjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTcuNQpKa2RNZXNyekhFUk5zeUl2eEx0ZTdQb0JwVTRadDh6MXpNclIyUkxxMXJJcnNmVnJhKzhQS2VJa1RwOXNuTFNmb2pxQmRiSmVBdnFzL0QxT28wUytEQT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.97.5_x64-setup.exe"
     }
   }
 }
