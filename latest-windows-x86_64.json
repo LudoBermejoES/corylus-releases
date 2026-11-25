@@ -1,11 +1,11 @@
 {
-  "version": "1.98.4",
-  "notes": "The assistant finds a chapter even when you put an article in front of it, such as «the chapter one».\n\nA search the assistant sometimes asked for in an unusual form now runs, instead of asking you what to search for.",
-  "pub_date": "2026-11-25T15:24:53Z",
+  "version": "1.98.5",
+  "notes": "When the assistant panel shows a chapter it has read, the text appears as a quoted block instead of lines starting with «>». Quotes in its own answers look the same.",
+  "pub_date": "2026-11-25T18:33:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3h6aHEraWFiSVFBOVhTOUIyRG01aDdIRW1vbFZSTXlza1FYcjNSem1JTDlPNmNlMkQrbDJYSGJ4bEtjRWs3TkVTM0luYlhKL2M2WEo0ZUErRXpwRFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjIwMjgxCWZpbGU6Q29yeWx1c18xLjk4LjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTguNApqa3hDTzlESmNTcG54U1F0MVVQN3lYajdOODhwNTI3UGxNcW52U1VzVUZJRHZnVEswSVZnU1d4S01aSDF5ZWduL29qQXJ3eEdiWVEvUldyczhjaUNDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.98.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzR2SWZwRTZmWkdKYjlkZDlJdCtUUllKcGF4WGJYaHNLQmhramJwNS9ZQ2dBUkVmSDMzSFBHdzMvKzRkei84bFdmaDNPbmwxTUNwOHl0Y1F5L2ZxTUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjMxNjAwCWZpbGU6Q29yeWx1c18xLjk4LjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTguNQpQQi9JK21nMmRzLzNDajYxS2FFbmQydkFEYjdNT1Q3VkQxUWRiN1AxQ2ZudXpMZGZXcTNUVCtMTnJML0orNGZNbFVPMFJUQlZBMENHQ0NmUEQvVGtCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.98.5_x64-setup.exe"
     }
   }
 }
