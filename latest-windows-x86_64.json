@@ -1,11 +1,11 @@
 {
-  "version": "1.98.1",
-  "notes": "Ask the assistant for something and it can now do it. Any command Corylus has — opening a panel, switching the view, starting a compile — can be asked for in plain words instead of hunted for in a menu. Anything that would change your text still stops and asks you first.\n\nThe assistant can also answer questions about the project you have open: how many words you have written, what is in the binder, what a document says, and where a phrase appears. It only reads — it never edits your text.\n\nThe licence under a gallery background now reads in your language, in the confirmation window and in My backgrounds.",
-  "pub_date": "2026-11-25T12:32:52Z",
+  "version": "1.98.3",
+  "notes": "Asking the assistant for a command in plain words now works: it used to understand the request and then do nothing. Commands that change your text still ask you first, and the confirmation names the command instead of showing its internal id.\n\nAsk what a chapter says and the assistant reads it, even when you name it loosely, such as «chapter one». Asking what is in the binder lists the titles, not just how many there are.\n\nThe assistant panel shows a real answer when the assistant looks something up, instead of a bare label such as «Search the project».\n\nThe mascot's results, confirmations and error messages appear in your language, and turning on distraction-free mode or ambient sounds from the mascot now asks first.",
+  "pub_date": "2026-11-25T14:50:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzRRN25hWG5BWmJiSW10Zis3N24wckJXQStpRktyalJsQ3J6c1FneVc1QUl6ak96UDZOVUtUc2tGemZ4eTU2ekg0UEtJQWY1UUJPbTdBdkdnd3BSV3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjA5OTUzCWZpbGU6Q29yeWx1c18xLjk4LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTguMQpCMkxmazVXdDViWmxhT0dacVlocVhXQWNvU0NIc3B4K1JoT3d3NXVzQzAyZ2UxWTcrdENmdk5JM3FrZXVqWDFrTTh3QzhpSHJ5VDhaMkpFUERhU0pEZz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.98.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzkrRUhxbVRkTi92WVhmbEptcW9vRWxvenBUeE5wWGw4MHk1WFZBdnA4R0VCL0ZVams2ZmdEbWtEYzFFU3MvdERpc1pLeFpWQ2JyTVdnM29DMU9nZ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE4MjEzCWZpbGU6Q29yeWx1c18xLjk4LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTguMwpadW5kSVpWOUlJMTdXUkJ5MlAxUUJMdjNPdkNxb3REQSt1WE5vRDR3VmtZMjM4UXRTTTZpdVI0V0t5c1htb09jUXY0Z3FEN25wQkZjeUhIamZYT3hCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.98.3_x64-setup.exe"
     }
   }
 }
