@@ -1,11 +1,11 @@
 {
-  "version": "1.97.5",
-  "notes": "When you add a background from the gallery while Settings is open, its confirmation window now appears in front of Settings instead of hidden behind it.",
-  "pub_date": "2026-11-24T06:16:41Z",
+  "version": "1.98.1",
+  "notes": "Ask the assistant for something and it can now do it. Any command Corylus has — opening a panel, switching the view, starting a compile — can be asked for in plain words instead of hunted for in a menu. Anything that would change your text still stops and asks you first.\n\nThe assistant can also answer questions about the project you have open: how many words you have written, what is in the binder, what a document says, and where a phrase appears. It only reads — it never edits your text.\n\nThe licence under a gallery background now reads in your language, in the confirmation window and in My backgrounds.",
+  "pub_date": "2026-11-25T12:32:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3pqd0FCNFFvUitCMGxNQ0xtVnFrUzVoNmxvWFIxNVZyZURUOWsrSFp1UCtEdmxRTDJ6YW55V3JLNjAvalM2dnU2MW1oRGVPU0VJSVdMM1h1Ynp3cmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTAwOTkwCWZpbGU6Q29yeWx1c18xLjk3LjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTcuNQpKa2RNZXNyekhFUk5zeUl2eEx0ZTdQb0JwVTRadDh6MXpNclIyUkxxMXJJcnNmVnJhKzhQS2VJa1RwOXNuTFNmb2pxQmRiSmVBdnFzL0QxT28wUytEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.97.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzRRN25hWG5BWmJiSW10Zis3N24wckJXQStpRktyalJsQ3J6c1FneVc1QUl6ak96UDZOVUtUc2tGemZ4eTU2ekg0UEtJQWY1UUJPbTdBdkdnd3BSV3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjA5OTUzCWZpbGU6Q29yeWx1c18xLjk4LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTguMQpCMkxmazVXdDViWmxhT0dacVlocVhXQWNvU0NIc3B4K1JoT3d3NXVzQzAyZ2UxWTcrdENmdk5JM3FrZXVqWDFrTTh3QzhpSHJ5VDhaMkpFUERhU0pEZz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.98.1_x64-setup.exe"
     }
   }
 }
