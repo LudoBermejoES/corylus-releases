@@ -1,11 +1,11 @@
 {
-  "version": "1.98.1",
-  "notes": "Ask the assistant for something and it can now do it. Any command Corylus has \u2014 opening a panel, switching the view, starting a compile \u2014 can be asked for in plain words instead of hunted for in a menu. Anything that would change your text still stops and asks you first.\n\nThe assistant can also answer questions about the project you have open: how many words you have written, what is in the binder, what a document says, and where a phrase appears. It only reads \u2014 it never edits your text.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-11-25T11:58:43Z",
+  "version": "1.98.4",
+  "notes": "Asking the assistant for a command in plain words now works: it used to understand the request and then do nothing. Commands that change your text still ask you first, and the confirmation names the command instead of showing its internal id.\n\nAsk what a chapter says and the assistant reads it, even when you name it loosely, such as \u00abchapter one\u00bb. Asking what is in the binder lists the titles, not just how many there are.\n\nThe assistant panel shows a real answer when the assistant looks something up, instead of a bare label such as \u00abSearch the project\u00bb.\n\nThe mascot's results, confirmations and error messages appear in your language, and turning on distraction-free mode or ambient sounds from the mascot now asks first.\n\nThe assistant finds a chapter even when you put an article in front of it, such as \u00abthe chapter one\u00bb.\n\nA search the assistant sometimes asked for in an unusual form now runs, instead of asking you what to search for.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-11-25T15:38:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mbzdlb3VnbnI1cldESkRVanJKUHBmVEt3ZXlSdE5hcnY4Qkh4NlhqR3pHVXpXY3JnZi9vWU8vQkI0ZnB0V0dMckpLZ2VLbDdGSnBNdWgrOGNYSlAwV2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjA3ODk5CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45OC4xCmcwTFg4UFJGbHRRMHVmMGtnZmxvMjh1Sy9ieDdzdHpDWEhWRXNLeVNMbmdxK3J0OS96ZnJ3QmpsYmdqVTBIRjE4V1FiZkxHRG5CRDVaSEljUmxOM0NnPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.98.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mbzk1SDg0VVc3NWZ2MjE2OWxCVlBPSzdWeXZzanNDV3ZEbEhLRzBWdEdzQmFRRDF2cGRlZHBiMGx5VXhCSlhRK3FlUXdvYWZsa3V6RHlBa1orNFFKVXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjIxMTA4CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45OC40CmZuVW1MTU42SHpiN0R3Y3J6Q2xDT1FoamRmUG4rWGZnQzVGcmxDcmZjQjNpNEdUUnoxaEVsejdWRVBFR0JESHRkNXN5SXByOG45c0w2ZVhBN0NSNUFnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.98.4_aarch64.app.tar.gz"
     }
   }
 }
