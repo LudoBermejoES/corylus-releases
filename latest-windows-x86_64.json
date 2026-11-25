@@ -1,11 +1,11 @@
 {
-  "version": "1.98.3",
-  "notes": "Asking the assistant for a command in plain words now works: it used to understand the request and then do nothing. Commands that change your text still ask you first, and the confirmation names the command instead of showing its internal id.\n\nAsk what a chapter says and the assistant reads it, even when you name it loosely, such as «chapter one». Asking what is in the binder lists the titles, not just how many there are.\n\nThe assistant panel shows a real answer when the assistant looks something up, instead of a bare label such as «Search the project».\n\nThe mascot's results, confirmations and error messages appear in your language, and turning on distraction-free mode or ambient sounds from the mascot now asks first.",
-  "pub_date": "2026-11-25T14:50:22Z",
+  "version": "1.98.4",
+  "notes": "The assistant finds a chapter even when you put an article in front of it, such as «the chapter one».\n\nA search the assistant sometimes asked for in an unusual form now runs, instead of asking you what to search for.",
+  "pub_date": "2026-11-25T15:24:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzkrRUhxbVRkTi92WVhmbEptcW9vRWxvenBUeE5wWGw4MHk1WFZBdnA4R0VCL0ZVams2ZmdEbWtEYzFFU3MvdERpc1pLeFpWQ2JyTVdnM29DMU9nZ2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE4MjEzCWZpbGU6Q29yeWx1c18xLjk4LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTguMwpadW5kSVpWOUlJMTdXUkJ5MlAxUUJMdjNPdkNxb3REQSt1WE5vRDR3VmtZMjM4UXRTTTZpdVI0V0t5c1htb09jUXY0Z3FEN25wQkZjeUhIamZYT3hCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.98.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3h6aHEraWFiSVFBOVhTOUIyRG01aDdIRW1vbFZSTXlza1FYcjNSem1JTDlPNmNlMkQrbDJYSGJ4bEtjRWs3TkVTM0luYlhKL2M2WEo0ZUErRXpwRFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjIwMjgxCWZpbGU6Q29yeWx1c18xLjk4LjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTguNApqa3hDTzlESmNTcG54U1F0MVVQN3lYajdOODhwNTI3UGxNcW52U1VzVUZJRHZnVEswSVZnU1d4S01aSDF5ZWduL29qQXJ3eEdiWVEvUldyczhjaUNDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.98.4_x64-setup.exe"
     }
   }
 }
