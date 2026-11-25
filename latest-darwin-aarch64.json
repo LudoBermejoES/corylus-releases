@@ -1,11 +1,11 @@
 {
-  "version": "1.97.7",
-  "notes": "When you add a background from the gallery while Settings is open, its confirmation window now appears in front of Settings instead of hidden behind it.\n\nThe licence under a gallery background now reads in your language, in the confirmation window and in My backgrounds.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
-  "pub_date": "2026-11-24T10:20:36Z",
+  "version": "1.98.1",
+  "notes": "Ask the assistant for something and it can now do it. Any command Corylus has \u2014 opening a panel, switching the view, starting a compile \u2014 can be asked for in plain words instead of hunted for in a menu. Anything that would change your text still stops and asks you first.\n\nThe assistant can also answer questions about the project you have open: how many words you have written, what is in the binder, what a document says, and where a phrase appears. It only reads \u2014 it never edits your text.\n\nmacOS: Corylus is not notarized yet, so Gatekeeper may say the app cannot be opened because the developer cannot be verified. Right-click (or Control-click) Corylus.app, choose Open, then Open again. Only needed once per downloaded copy.",
+  "pub_date": "2026-11-25T11:58:43Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzkrUkFvQ283VW9TUWhZY25sRDkrR1Jiak9mQi9JL1RTTmROT3dXTnBqR1JiYVVHZkxaSTU0U2ZVMG1pc2prVTh3Qjd1WjRQZGlFZVI5ZFQ4eVBWMEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE1NjAxCWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45Ny43Ckt3Qk13RnBkTUkzeVUxN1RJaDZEdXlNenQ4d0o5V3Q0aVBvSkJqN0JURzRhdXI2U3VjN2xTUUhjYWxkODl1WDJ3aEwxWmxwYm00ZnBtaU1mdUxaR0FBPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.97.7_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mbzdlb3VnbnI1cldESkRVanJKUHBmVEt3ZXlSdE5hcnY4Qkh4NlhqR3pHVXpXY3JnZi9vWU8vQkI0ZnB0V0dMckpLZ2VLbDdGSnBNdWgrOGNYSlAwV2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjA3ODk5CWZpbGU6Q29yeWx1cy5hcHAudGFyLmd6CXZlcnNpb246MS45OC4xCmcwTFg4UFJGbHRRMHVmMGtnZmxvMjh1Sy9ieDdzdHpDWEhWRXNLeVNMbmdxK3J0OS96ZnJ3QmpsYmdqVTBIRjE4V1FiZkxHRG5CRDVaSEljUmxOM0NnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.98.1_aarch64.app.tar.gz"
     }
   }
 }
