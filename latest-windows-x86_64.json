@@ -1,11 +1,11 @@
 {
-  "version": "1.98.5",
-  "notes": "When the assistant panel shows a chapter it has read, the text appears as a quoted block instead of lines starting with «>». Quotes in its own answers look the same.",
-  "pub_date": "2026-11-25T18:33:30Z",
+  "version": "1.100.0",
+  "notes": "The mascot is now the companion, with its own place in Settings → Companion. Ogam, the first companion, comes as a small download: he reacts to what you are doing, stays quiet while you write, speaks at natural pauses, and can take you to what your checks found and apply a fix only when you choose it.",
+  "pub_date": "2026-11-26T08:12:47Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzR2SWZwRTZmWkdKYjlkZDlJdCtUUllKcGF4WGJYaHNLQmhramJwNS9ZQ2dBUkVmSDMzSFBHdzMvKzRkei84bFdmaDNPbmwxTUNwOHl0Y1F5L2ZxTUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjMxNjAwCWZpbGU6Q29yeWx1c18xLjk4LjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuOTguNQpQQi9JK21nMmRzLzNDajYxS2FFbmQydkFEYjdNT1Q3VkQxUWRiN1AxQ2ZudXpMZGZXcTNUVCtMTnJML0orNGZNbFVPMFJUQlZBMENHQ0NmUEQvVGtCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.98.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mby9sa3RMYXJFY0JpOWV5eGltVnFZczQwMEVhSmZZR01OQmFiNGgzOUUrV29LU3Q3SERMWmJrTm1oK2IxaVZJTVhWc1pJeGVrK0FyL2NOaE9rZ3VQVVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjgwNzQzCWZpbGU6Q29yeWx1c18xLjEwMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEwMC4wClE0a0tpbnROZ1ZtZ3IxZ2NQSVM3ZG9RZXRuOEVCU0lmZUlUZDlZSTdHQWZKQkdFQWRVVjVPZzlZSEdUVEFVM2h3NkkxQXB6bUd6Ly9ZQ2thOFdicEF3PT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.100.0_x64-setup.exe"
     }
   }
 }
