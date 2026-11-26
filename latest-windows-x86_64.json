@@ -1,11 +1,11 @@
 {
-  "version": "1.103.0",
-  "notes": "With the assistant installed, the companion can word some comments itself from counts only, keeps the thread when you talk to it, and can suggest a synonym, a reworded sentence or a shorter selection. Nothing changes until you choose Apply, and every change is saved in a snapshot and can be undone from the activity log.",
-  "pub_date": "2026-11-26T11:58:28Z",
+  "version": "1.104.0",
+  "notes": "Two new companions join Ogam: Cob, a red squirrel who stores your words like nuts for winter, and Quoth, a raven in round glasses. Settings → Companion shows the whole cast before you download anything, and switching between them happens at once.",
+  "pub_date": "2026-11-26T15:29:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzhUYWIwanJycnpLaS82RURQRUwzZEFsYnNPTldMUk5obWNOandSdmY3MloxZ1J1TVRuMXl4OXp3cUs2SSt1OGFiMGJBM2R0eUQ2QlozYk1zWDI0SGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk0MjkwCWZpbGU6Q29yeWx1c18xLjEwMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEwMy4wCmVjVVI3M2JRSG44QkVQMEkxR2wxZllKcEI3SUphOE9UVGk5Tm42OHhkQTE3WEJBdWFmbTNkVnFnZ0JxMnl2cUgzd0lLTWZoNGtDcG5tN3V2d0pBbkJ3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.103.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3pOQWwrZEg4MXNZRkNoUm42V1lBSUdlMUh4QkFMN2o3bHRkaVo2a0JXTWJ5c2NSQmdYV0JRNmlBWDFzSEMwUVhjdGZCTEtxTVFkQkcra2VJaFA0RndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA2OTUxCWZpbGU6Q29yeWx1c18xLjEwNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEwNC4wClA4WUpPTlB5YWtEa0ZpUFRlNmwzQVJuelZ6WnZKOGwzeE5IT2pkMkhaTGF0em0zck1RTUdra0pzazM1dDFzbWJnNFlnQ0dKbXVnZlVrd2ZSN1N1SURBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.104.0_x64-setup.exe"
     }
   }
 }
