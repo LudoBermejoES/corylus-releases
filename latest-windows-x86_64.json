@@ -1,11 +1,11 @@
 {
-  "version": "1.101.0",
-  "notes": "Ogam's face now moves: twelve expressions instead of three pictures, with blinking and talking, and he rests when nothing is happening. Settings → Companion offers an Update when a new version of the companions is out.",
-  "pub_date": "2026-11-26T10:27:38Z",
+  "version": "1.102.0",
+  "notes": "When you have asked the companion for less of a kind of comment, «Why?» now says so. Settings → Companion can open the folder where it keeps what it learned, and if one of its pictures cannot be loaded it says so once and carries on with the simpler drawing.",
+  "pub_date": "2026-11-26T11:01:13Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzlnWm11aUx1ak9kT2JOZW5SNjhrWGFybTJ6MDRvaDEzUFNnSnBlNThWYkl5SU10L1kxNzQ3OU1YQjN4cXl6RjlNOEtnck5yVUF4WFZlZ2ZtVHZvQmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njg4ODQxCWZpbGU6Q29yeWx1c18xLjEwMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEwMS4wCldBbGNJZFVxWUJFMGZPZWcxNi9VWTY3WGhnRXByTlBJekU5c3BHNVp6RXhYa3o3Q25MamhZWWFvTlRGcWlEZFBSSW5RMjEzS0c4cVRtZFpIRXZxVkJ3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.101.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbytoYzNUU1l5SEZ2Nkdxb0NrUzdBR2taWHZvWjFRd05Ua05qK01FMkxtSlp4SENDWjlTWWg5ZU9FNis0UGZ1STE1TEF5MTZwdXNkTUpaR2tiYVdONXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjkwODI5CWZpbGU6Q29yeWx1c18xLjEwMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEwMi4wCkJIM1U1VDR6M0RPZExncTNPa3BxUTY3dDBTRDVjenFFTmZxcUw4QWNSK1BBUXVPT3IrY3c5S1gyRzVpRzZzTEkzN1daTU0xL01CeVFCTDdSOG1reUNBPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.102.0_x64-setup.exe"
     }
   }
 }
