@@ -1,11 +1,11 @@
 {
-  "version": "1.104.0",
-  "notes": "Two new companions join Ogam: Cob, a red squirrel who stores your words like nuts for winter, and Quoth, a raven in round glasses. Settings → Companion shows the whole cast before you download anything, and switching between them happens at once.",
-  "pub_date": "2026-11-26T15:29:28Z",
+  "version": "1.105.0",
+  "notes": "Three more companions join the cast: Fintan the curious salmon, Maud the lighthouse keeper and Dormy the sleepy dormouse. The companion can now offer a next step (a snapshot after a long revision, a search for a Story Bible entry you keep opening), only on your click, and «Presence only» keeps it reacting without comments.",
+  "pub_date": "2026-11-26T21:40:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9Mb3pOQWwrZEg4MXNZRkNoUm42V1lBSUdlMUh4QkFMN2o3bHRkaVo2a0JXTWJ5c2NSQmdYV0JRNmlBWDFzSEMwUVhjdGZCTEtxTVFkQkcra2VJaFA0RndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA2OTUxCWZpbGU6Q29yeWx1c18xLjEwNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEwNC4wClA4WUpPTlB5YWtEa0ZpUFRlNmwzQVJuelZ6WnZKOGwzeE5IT2pkMkhaTGF0em0zck1RTUdra0pzazM1dDFzbWJnNFlnQ0dKbXVnZlVrd2ZSN1N1SURBPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.104.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWm43WXlwQi9MbzJicVdaZnN3OGl6SlM0TnAwTlE3cy9zbVhDM2pCRlk4VnYzd1prSDlKVEFkazJPbjdFNG0vanhaRnZUQm9XYWd1Yk5QQVppRDJRcDdhTnpPQ0JRamdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzI5MTk0CWZpbGU6Q29yeWx1c18xLjEwNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEwNS4wCkRpOTJBdmVNUTZkZ0x3K3hmaTZmQUpLbEVtN0lHNzUxUkVzSUxjNjhJZ3hpSWtNZTlMY3NCSGNoeTBOT0NUenU3d2ZPNWd1dTYyMEVkU0Z3Z1J3QkJnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/corylus-releases/main/Corylus_1.105.0_x64-setup.exe"
     }
   }
 }
